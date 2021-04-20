@@ -1,3 +1,5 @@
 requests
 json
 pytest
+beautifulsoup4
+lxml
