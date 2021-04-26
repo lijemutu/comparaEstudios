@@ -3,3 +3,5 @@ json
 pytest
 beautifulsoup4
 lxml
+fuzzywuzzy
+python-Levenshtein 
