@@ -37,16 +37,38 @@ def request_salud_digna(save=False):
         r = s.get(url=urlPrep, headers=headers)
         assert r.status_code == 200
         time.sleep(random.uniform(3, 5))
-        urlStudies = "https://api.emarketingsd.org/citas/citas/SubEstudiosPorSucursalPP?estudio%5BId%5D=2&sucursal%5BId%5D=101&filtro=1&busqueda="
-        rStudies = s.get(url=urlStudies, headers=headers)
-        assert rStudies.status_code == 200
-
-        save_data = json.dumps(rStudies.json(), ensure_ascii=False, indent=2)
-        # print(type(save_data))
-
+        estudios = ["analisis-clinicos",
+                    "mastografia",
+                    "ultrasonido",
+                    "rayos-x",
+                    "tomografia",
+                    "electrocardiograma",
+                    "papanicolau",
+                    "densitometria"]
+        urlStudies = ["https://api.emarketingsd.org/citas/citas/SubEstudiosPorSucursalPP?estudio%5BId%5D=2&sucursal%5BId%5D=101&filtro=1&busqueda=",
+        "https://api.emarketingsd.org/Citas/Citas2/SubEstudiosPorSucursal?idEstudio=3&idSucursal=101&filtro=1&busqueda=&origen=0",
+        "https://api.emarketingsd.org/citas/citas/SubEstudiosPorSucursalPP?estudio%5BId%5D=6&sucursal%5BId%5D=101&filtro=1&busqueda=",
+        "https://api.emarketingsd.org/Citas/Citas2/SubEstudiosPorSucursal?idEstudio=5&idSucursal=101&filtro=1&busqueda=&origen=0",
+        "https://api.emarketingsd.org/Citas/Citas2/SubEstudiosPorSucursal?idEstudio=11&idSucursal=101&filtro=1&busqueda=&origen=0",
+        "https://api.emarketingsd.org/Citas/Citas2/SubEstudiosPorSucursal?idEstudio=9&idSucursal=101&filtro=1&busqueda=&origen=0",
+        "https://api.emarketingsd.org/Citas/Citas2/SubEstudiosPorSucursal?idEstudio=4&idSucursal=101&filtro=1&busqueda=&origen=0",
+        "https://api.emarketingsd.org/Citas/Citas2/SubEstudiosPorSucursal?idEstudio=4&idSucursal=101&filtro=1&busqueda=&origen=0"]
+        
+        save_data = {}
+        for i in range(len(estudios)):
+            time.sleep(random.uniform(1,2))
+            rStudies = s.get(url=urlStudies[i], headers=headers)
+            assert rStudies.status_code == 200
+            data = rStudies.json()
+            if estudios[i] == 'analisis-clinicos' or estudios[i] == 'ultrasonido':
+                save_data[estudios[i]] = data
+            else:
+                save_data[estudios[i]] = data['data']
+            # print(type(save_data))
+        #save_data = json.dumps(save_data, ensure_ascii=False, indent=2)
         if save == True:
-            with open("response_salud_digna.json", 'w') as studies:
-                studies.write(save_data)
+            with open("response_salud_digna.json", 'w',encoding='utf-8') as studies:
+                json.dump(save_data, studies, ensure_ascii=False)
         return save_data
 
 
@@ -242,4 +264,4 @@ def request_olab(save=False):
         return save_data
 
 if __name__ == "__main__":
-    request_olab(save = True)
+    request_salud_digna(save = True)

@@ -1,7 +1,6 @@
 requests
-json
 pytest
 beautifulsoup4
 lxml
 fuzzywuzzy
-python-Levenshtein 
+python-Levenshtein

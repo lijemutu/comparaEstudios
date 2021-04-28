@@ -23,6 +23,8 @@ def clean_monar():
     with open('response_monar.json','r',encoding='utf-8') as responseMonar:
         jsonMonar = json.load(responseMonar)
         for estudioCategoriaName, dictMonar in jsonMonar.items():
+            if estudioCategoriaName == 'electroencefalograma/':
+                estudioCategoriaName = 'electroencefalograma'
             for estudioName, estudioInfo in dictMonar.items():
                 study = {}
                 estudioInfo1 = estudioInfo.split('\t\t\t\t\t')
@@ -41,6 +43,8 @@ def clean_olab():
     with open('response_olab.json','r',encoding='utf-8') as responseOlab:
         jsonOlab = json.load(responseOlab)
         for estudioCategoriaName, dictOlab in jsonOlab.items():
+            if estudioCategoriaName == 'estudios-de-laboratorio':
+                estudioCategoriaName = 'analisis-clinicos'
             for estudio in dictOlab:
                 study = {}
                 study['Study'] = estudio[0]
@@ -49,6 +53,7 @@ def clean_olab():
                     study['Price'] = float(re.search(r"[-+]?\d*\.\d+|\d+", estudio[1].strip()).group())
                 except:
                     continue
+                
                 study['Category'] = estudioCategoriaName
                 study['Study_id'] = ''
                 clean_data.append(study)
@@ -57,16 +62,21 @@ def clean_olab():
         
 def clean_salud_digna():
     clean_data = []
-    with open('response_salud_digna.json','r',encoding='latin-1') as responseSD:
+    with open('response_salud_digna.json','r',encoding='utf-8') as responseSD:
         jsonSaludDigna = json.load(responseSD)
-        for estudios in jsonSaludDigna:
-            study = {}
-            study['Study'] = estudios['Descripcion']
-            study['Description'] = estudios['Preparacion']
-            study['Price'] = round(float(re.search(r"[-+]?\d*\.\d+|\d+", estudios['Precio'].strip()).group())*1.16)
-            study['Category'] = estudios['Estudio']
-            study['Study_id'] = ''
-            clean_data.append(study)
+        for estudioCategoriaName, dictSD in jsonSaludDigna.items():
+            for estudio in dictSD:
+                
+                study = {}
+                study['Study'] = estudio['Descripcion']
+                study['Description'] = estudio['Preparacion']
+                if estudio['Descuento'] != 0:
+                    study['Price'] = round(float(re.search(r"[-+]?\d*\.\d+|\d+", estudio['Precio'].strip()).group()))*(100-float(estudio['Descuento']))/100
+                else:
+                    study['Price'] = round(float(re.search(r"[-+]?\d*\.\d+|\d+", estudio['Precio'].strip()).group())*1.16)
+                study['Category'] = estudioCategoriaName
+                study['Study_id'] = ''
+                clean_data.append(study)
         with open('data_salud_digna.json', 'w', encoding="utf-8") as outfile:
             json.dump(clean_data, outfile, ensure_ascii=False)
 if __name__ == "__main__":
