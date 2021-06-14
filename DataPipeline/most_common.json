@@ -1,0 +1,22 @@
+[
+    {"Study": "Biometría Hemática",
+    "match_study_id": "56d9878f-cd6e-4dd0-ac56-86b8b54cabe4"},
+    {"Study":"Glucosa",
+    "match_study_id":"872ec87b-1cb1-4bcc-8825-a0b7de88078c"},
+    {"Study":"COLESTEROL TOTAL",
+    "match_study_id":"9dfb0fe4-8b47-4e48-ac42-92b558b73f8e"},
+    {"Study":"EXAMEN GENERAL DE ORINA",
+    "match_study_id":"b5811b51-4cb5-4212-a9ad-d1bd091d4774"},
+    {"Study":"Sangre oculta en heces",
+    "match_study_id":""},
+    {"Study":"Perfil renal: Nitrógeno de urea, Creatinina, Ácido úrico, Proteína total, albúmina/globulina calcio, glucosa",
+    "match_study_id":""},
+    {"Study":"Perfil lipídico: Colesterol, LDL; HDL; triglicérido",
+    "match_study_id":""},
+    {"Study":"Perfil hepático: Bilirrubina, total y directa, AST, LDH",
+    "match_study_id":""},
+    {"Study":"Perfil tiroide: TSH, T3, T4",
+    "match_study_id":""},
+    {"Study":"Panel básico metabólico: Electrolitos, glucosa, nitrógeno de urea,creatinina",
+    "match_study_id":""}
+]

@@ -1,7 +1,7 @@
 import json
 import pytest
-from src.request_study import request_salud_digna,request_laboratorio_medico_polanco
-from src.request_study import request_monar,request_olab
+from DataPipeline.request_study import request_salud_digna,request_laboratorio_medico_polanco
+from DataPipeline.request_study import request_monar,request_olab
 
 
 def test_salud_digna():

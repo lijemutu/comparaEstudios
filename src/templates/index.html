@@ -1,0 +1,97 @@
+{% extends "base.html" %} {% block content %}
+{% for differentStudy in studies%}
+<div
+  class="
+    row
+    p-4
+    pb-0
+    pe-lg-0
+    pt-lg-5
+    align-items-center
+    rounded-3
+    border
+    shadow-lg
+  "
+>
+  <div class="">
+    <h1 class="display-4 fw-bold lh-1">{{differentStudy['Studies'][0]['Study']}}</h1>
+    <h2>
+      <small class="text-muted">{{differentStudy['Studies'][0]['Category']}}</small>
+    </h2>
+  </div>
+  <div class="row row-cols-1 row-cols-md-3 mb-3 text-center">
+    {% for study in differentStudy['Studies']%}
+
+    <div class="col">
+      {% if study['Price'] == differentStudy['PriceMin'] %}
+      <div class="card border-success mb-4 rounded-3 shadow-sm h-100">
+        {% else %}
+        <div class="card mb-4 rounded-3 shadow-sm h-100">
+          {% endif %}
+          <div class="card-body">
+            <h5 class="card-text">{{study['Lab']}}</h5>
+
+            {% if study['Lab'] == "Olab Diagnósticos Medicos" %}
+            <img
+              src="{{url_for('static',filename='assets/logo_laboratorios_olab.png')}}"
+              class="img-thumbnail"
+              alt="Responsive image"
+            />
+            {% endif %} {% if study['Lab'] == "Laboratorio Médico Polanco" %}
+            <img
+              src="{{url_for('static',filename='assets/logo_laboratorio_medico_polanco.png')}}"
+              class="img-thumbnail"
+              alt="Responsive image"
+            />
+            {% endif %} {% if study['Lab'] == "Laboratorio Medico Monar" %}
+            <img
+              src="{{url_for('static',filename='assets/logo_monar.png')}}"
+              class="img-thumbnail"
+              alt="Responsive image"
+            />
+            {% endif %} {% if study['Lab'] == "Salud Digna" %}
+            <img
+              src="{{url_for('static',filename='assets/saluddigna.svg')}}"
+              class="img-thumbnail"
+              alt="Responsive image"
+            />
+            {% endif %}
+
+            <h1 class="card-title pricing-card-title">
+              ${{study['Price']}} <small class="text-muted fw-light">MXN</small>
+            </h1>
+            {% if study['Price'] == differentStudy['PriceMin'] %}
+            <a
+              class="btn btn-success"
+              href="{{study['LabWebsite']}}"
+              role="button"
+              >{{study['Lab']}}</a
+            >
+            {% else %}
+            <a
+              class="btn btn-primary"
+              href="{{study['LabWebsite']}}"
+              role="button"
+              >{{study['Lab']}}</a
+            >
+            {% endif%}
+            <br />
+            <br />
+            <a
+              class="btn btn-secondary"
+              href="{{study['LabTelephone']}}"
+              role="button"
+              >{{study['LabTelephone']}}</a
+            >
+          </div>
+        </div>
+      </div>
+      <br>
+      <br>
+      {% endfor %}
+    </div>
+  </div>
+  <br>
+      <br>
+  {% endfor %} {% endblock %}
+</div>

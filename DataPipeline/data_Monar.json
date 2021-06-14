@@ -1,0 +1,1406 @@
+[
+    {
+        "Study": "Ácido Úrico",
+        "Description": "Entrega: Mismo día Preparación: Ayuno",
+        "Price": 50.0,
+        "Category": "analisis-clinicos",
+        "Study_id": "defdc5e5-92b7-425e-ad4f-746df0e74e01",
+        "match_study_id": "",
+        "Lab": "Laboratorio Monar"
+    },
+    {
+        "Study": "Ácidos Grasos Libres en suero",
+        "Description": "Entrega: Mismo día Preparación: Ayuno",
+        "Price": 470.0,
+        "Category": "analisis-clinicos",
+        "Study_id": "8e67a191-3d9b-422c-b739-70ce1a1ef430",
+        "match_study_id": "",
+        "Lab": "Laboratorio Monar"
+    },
+    {
+        "Study": "Albumina en Orina casual",
+        "Description": "Entrega: Mismo día Preparación: Primera muestra de orina de la mañana.",
+        "Price": 120.0,
+        "Category": "analisis-clinicos",
+        "Study_id": "cefebe2c-b988-4605-a512-40a8ea77fd16",
+        "match_study_id": "",
+        "Lab": "Laboratorio Monar"
+    },
+    {
+        "Study": "Amilasa",
+        "Description": "Entrega: Mismo día Preparación: Ayuno",
+        "Price": 150.0,
+        "Category": "analisis-clinicos",
+        "Study_id": "38b57ad7-9feb-46a3-b4c6-981a6f9503e0",
+        "match_study_id": "",
+        "Lab": "Laboratorio Monar"
+    },
+    {
+        "Study": "Anticuerpos antiamibianos",
+        "Description": "Entrega: 4 días Preparación: Ayuno",
+        "Price": 190.0,
+        "Category": "analisis-clinicos",
+        "Study_id": "48652df4-4ac7-474f-9d79-ebcf48416660",
+        "match_study_id": "",
+        "Lab": "Laboratorio Monar"
+    },
+    {
+        "Study": "Antiestreptolisinas",
+        "Description": "Entrega: Lunes, Miércoles y Viernes Preparación: Ayuno",
+        "Price": 100.0,
+        "Category": "analisis-clinicos",
+        "Study_id": "f733b1e7-739d-400d-81e5-d11273412a8b",
+        "match_study_id": "",
+        "Lab": "Laboratorio Monar"
+    },
+    {
+        "Study": "Antígeno prostático (PSA)",
+        "Description": "Entrega: 4 días Preparación: Ayuno",
+        "Price": 250.0,
+        "Category": "analisis-clinicos",
+        "Study_id": "fd638f68-df4a-4f67-bb83-0031a3a31215",
+        "match_study_id": "",
+        "Lab": "Laboratorio Monar"
+    },
+    {
+        "Study": "Amiba en fresco / citología en moco fecal",
+        "Description": "Entrega: Mismo día Preparación: Ninguna",
+        "Price": 60.0,
+        "Category": "analisis-clinicos",
+        "Study_id": "31fbc0c5-b026-4f99-89cf-95186018ba8e",
+        "match_study_id": "",
+        "Lab": "Laboratorio Monar"
+    },
+    {
+        "Study": "Baciloscopía de Expectoración",
+        "Description": "Entrega: 4 días Preparación: Ayuno",
+        "Price": 50.0,
+        "Category": "analisis-clinicos",
+        "Study_id": "ff4a36ba-6bc0-49bd-b211-748d2ef2bcb0",
+        "match_study_id": "",
+        "Lab": "Laboratorio Monar"
+    },
+    {
+        "Study": "Baciloscopía de Heces",
+        "Description": "Entrega: 4 días Preparación: Ninguno",
+        "Price": 50.0,
+        "Category": "analisis-clinicos",
+        "Study_id": "fccb2945-3fb4-4ffc-b560-b2ad4cc472e3",
+        "match_study_id": "",
+        "Lab": "Laboratorio Monar"
+    },
+    {
+        "Study": "Baciloscopía de Mucosa Nasal",
+        "Description": "Entrega: 4 días Preparación: Sin aseo nasal",
+        "Price": 50.0,
+        "Category": "analisis-clinicos",
+        "Study_id": "4f1f0fa2-e059-4e64-997d-fd038e61d4fa",
+        "match_study_id": "",
+        "Lab": "Laboratorio Monar"
+    },
+    {
+        "Study": "Baciloscopía de Orina",
+        "Description": "Entrega: 4 días Preparación: Ayuno",
+        "Price": 50.0,
+        "Category": "analisis-clinicos",
+        "Study_id": "9e228bc0-bcfb-46f4-9995-9cd16ef391e0",
+        "match_study_id": "",
+        "Lab": "Laboratorio Monar"
+    },
+    {
+        "Study": "Baciloscopía de Herida",
+        "Description": "Entrega: 4 días Preparación: Aseo",
+        "Price": 50.0,
+        "Category": "analisis-clinicos",
+        "Study_id": "3b73daf6-ddaf-4c08-8e9b-d43b47b62490",
+        "match_study_id": "",
+        "Lab": "Laboratorio Monar"
+    },
+    {
+        "Study": "Bilirrubinas",
+        "Description": "Entrega: Mismo día Preparación: Ayuno",
+        "Price": 120.0,
+        "Category": "analisis-clinicos",
+        "Study_id": "fede31c4-8f45-4b1a-9775-55f1f1c8a114",
+        "match_study_id": "",
+        "Lab": "Laboratorio Monar"
+    },
+    {
+        "Study": "Biometría Hemática",
+        "Description": "Entrega: Mismo día Preparación: Ninguna",
+        "Price": 100.0,
+        "Category": "analisis-clinicos",
+        "Study_id": "90d37ad9-4752-4057-8015-ac64d9b0552e",
+        "match_study_id": "",
+        "Lab": "Laboratorio Monar"
+    },
+    {
+        "Study": "Calcio",
+        "Description": "Entrega: Mismo día Preparación: Ayuno",
+        "Price": 70.0,
+        "Category": "analisis-clinicos",
+        "Study_id": "2bf592d6-2617-4144-be35-e3a3fc58c2da",
+        "match_study_id": "",
+        "Lab": "Laboratorio Monar"
+    },
+    {
+        "Study": "Células L.E.",
+        "Description": "Entrega: Mismo día Preparación: Ayuno",
+        "Price": 200.0,
+        "Category": "analisis-clinicos",
+        "Study_id": "abd2d9e9-66da-44ac-8256-848f4d980eae",
+        "match_study_id": "",
+        "Lab": "Laboratorio Monar"
+    },
+    {
+        "Study": "Colesterol",
+        "Description": "Entrega: Mismo día Preparación: Ayuno",
+        "Price": 50.0,
+        "Category": "analisis-clinicos",
+        "Study_id": "463ebe75-9948-4b34-a81f-84309301acc2",
+        "match_study_id": "",
+        "Lab": "Laboratorio Monar"
+    },
+    {
+        "Study": "Colinesterasa",
+        "Description": "Entrega: 4 días Preparación: Ayuno",
+        "Price": 230.0,
+        "Category": "analisis-clinicos",
+        "Study_id": "63efa6ee-2254-4056-b981-07e9509ad665",
+        "match_study_id": "",
+        "Lab": "Laboratorio Monar"
+    },
+    {
+        "Study": "Complemento C3, C4",
+        "Description": "Entrega: 4 días Preparación: Ayuno",
+        "Price": 340.0,
+        "Category": "analisis-clinicos",
+        "Study_id": "02d70e39-a036-4581-80c2-2c0a8007d4f6",
+        "match_study_id": "",
+        "Lab": "Laboratorio Monar"
+    },
+    {
+        "Study": "Coombs Directo",
+        "Description": "Entrega: Mismo día Preparación: Ayuno",
+        "Price": 120.0,
+        "Category": "analisis-clinicos",
+        "Study_id": "96698ec6-fdd5-4542-8cd2-09bf38635eab",
+        "match_study_id": "",
+        "Lab": "Laboratorio Monar"
+    },
+    {
+        "Study": "Coombs Indirecto",
+        "Description": "Entrega: Mismo día Preparación: Ayuno",
+        "Price": 120.0,
+        "Category": "analisis-clinicos",
+        "Study_id": "9af3f0aa-bc07-40db-a089-02e4c40bd0a3",
+        "match_study_id": "",
+        "Lab": "Laboratorio Monar"
+    },
+    {
+        "Study": "Coprocultivo",
+        "Description": "Entrega: 4 días Preparación: Ninguna",
+        "Price": 200.0,
+        "Category": "analisis-clinicos",
+        "Study_id": "b0d9a435-f972-4bed-b8a1-e65724eaa192",
+        "match_study_id": "",
+        "Lab": "Laboratorio Monar"
+    },
+    {
+        "Study": "Coprológico",
+        "Description": "Entrega: Mismo día Preparación: Ninguna",
+        "Price": 100.0,
+        "Category": "analisis-clinicos",
+        "Study_id": "9f1d7419-3810-40bd-a827-bd5b5379e4ba",
+        "match_study_id": "",
+        "Lab": "Laboratorio Monar"
+    },
+    {
+        "Study": "Coproparasitoscópico",
+        "Description": "Entrega: 1 día Preparación: (Muestra de materia fecal -1 por día-)",
+        "Price": 50.0,
+        "Category": "analisis-clinicos",
+        "Study_id": "60cd9685-351a-46b8-8a64-0cc6263119f0",
+        "match_study_id": "",
+        "Lab": "Laboratorio Monar"
+    },
+    {
+        "Study": "Creatin fosfo cinasa Total (CK)",
+        "Description": "Entrega: Mismo día Preparación: Ayuno",
+        "Price": 120.0,
+        "Category": "analisis-clinicos",
+        "Study_id": "95fa53a6-18f6-4d8c-8b6f-24afed38761b",
+        "match_study_id": "",
+        "Lab": "Laboratorio Monar"
+    },
+    {
+        "Study": "Creatinina",
+        "Description": "Entrega: Mismo día Preparación: Ayuno",
+        "Price": 50.0,
+        "Category": "analisis-clinicos",
+        "Study_id": "69990f50-7c31-4209-8757-34234af49a05",
+        "match_study_id": "",
+        "Lab": "Laboratorio Monar"
+    },
+    {
+        "Study": "Cuantificación de Beta Gonadotrofina",
+        "Description": "Entrega: 4 días Preparación: Ayuno",
+        "Price": 295.0,
+        "Category": "analisis-clinicos",
+        "Study_id": "03411ad5-2a3e-460f-9771-4de7fb0af639",
+        "match_study_id": "",
+        "Lab": "Laboratorio Monar"
+    },
+    {
+        "Study": "Cultivo Bacteriológico",
+        "Description": "Entrega: 4 días Preparación: No estar bajo tratamiento de antibióticos.",
+        "Price": 200.0,
+        "Category": "analisis-clinicos",
+        "Study_id": "4548e14a-09ee-47f9-b80d-d1870dc3b8b1",
+        "match_study_id": "",
+        "Lab": "Laboratorio Monar"
+    },
+    {
+        "Study": "Cultivo Cérvico Vaginal",
+        "Description": "Entrega: 4 días Preparación: No estar bajo tratamiento de antibióticos.",
+        "Price": 200.0,
+        "Category": "analisis-clinicos",
+        "Study_id": "bf552d3c-9f5f-44eb-aa66-726a03406f56",
+        "match_study_id": "",
+        "Lab": "Laboratorio Monar"
+    },
+    {
+        "Study": "Cultivo de Exudado Farígeo",
+        "Description": "Entrega: 4 días Preparación: Sin aseo bucal, ni estar bajo tratamiento de antibióticos.",
+        "Price": 200.0,
+        "Category": "analisis-clinicos",
+        "Study_id": "5b6de344-01f9-4a40-978a-0ba059142e9b",
+        "match_study_id": "",
+        "Lab": "Laboratorio Monar"
+    },
+    {
+        "Study": "Cultivo de Exudado Nasal",
+        "Description": "Entrega: 4 días Preparación: No estar bajo tratamiento de antibióticos.",
+        "Price": 200.0,
+        "Category": "analisis-clinicos",
+        "Study_id": "95f375fd-4a91-4b0d-bdeb-df9f7471a679",
+        "match_study_id": "",
+        "Lab": "Laboratorio Monar"
+    },
+    {
+        "Study": "Cultivo de Exudado Uretral",
+        "Description": "Entrega: 4 días Preparación: No estar bajo tratamiento de antibióticos.",
+        "Price": 200.0,
+        "Category": "analisis-clinicos",
+        "Study_id": "008b719f-2f35-4ff5-a2b7-54b45bda1a6c",
+        "match_study_id": "",
+        "Lab": "Laboratorio Monar"
+    },
+    {
+        "Study": "Cultivo de Hongos",
+        "Description": "Entrega: 30 días Preparación: Ninguna",
+        "Price": 330.0,
+        "Category": "analisis-clinicos",
+        "Study_id": "1d309226-d9b3-495a-aa6d-be55aa258738",
+        "match_study_id": "",
+        "Lab": "Laboratorio Monar"
+    },
+    {
+        "Study": "Cultivo de Líquido Cefalorraquídeo",
+        "Description": "Entrega: 4 días Preparación: No estar bajo tratamiento de antibióticos.",
+        "Price": 200.0,
+        "Category": "analisis-clinicos",
+        "Study_id": "3fc7e25a-5060-4ff9-a7cd-6a05288b6348",
+        "match_study_id": "",
+        "Lab": "Laboratorio Monar"
+    },
+    {
+        "Study": "Cultivo de Mycobacterium",
+        "Description": "Entrega: 35 días Preparación: Ninguna",
+        "Price": 490.0,
+        "Category": "analisis-clinicos",
+        "Study_id": "acf357df-6fa7-40f8-a513-09ad6e85c198",
+        "match_study_id": "",
+        "Lab": "Laboratorio Monar"
+    },
+    {
+        "Study": "Curva de Tolerancia a la Glucosa",
+        "Description": "Entrega: Mismo día Preparación: Ayuno",
+        "Price": 350.0,
+        "Category": "analisis-clinicos",
+        "Study_id": "103d476d-e453-45a5-b891-308f09f2af3c",
+        "match_study_id": "",
+        "Lab": "Laboratorio Monar"
+    },
+    {
+        "Study": "Depuración de Creatinina en Orina de 24 hrs.",
+        "Description": "Entrega: 24 horas Preparación: Juntar toda la orina de 24 hrs en un bote limpio.",
+        "Price": 120.0,
+        "Category": "analisis-clinicos",
+        "Study_id": "027849c9-def4-4f56-a08c-7225d9f267db",
+        "match_study_id": "",
+        "Lab": "Laboratorio Monar"
+    },
+    {
+        "Study": "Electrolitos Na, K, Cl",
+        "Description": "Entrega: Mismo día Preparación: Ayuno",
+        "Price": 200.0,
+        "Category": "analisis-clinicos",
+        "Study_id": "20959a4d-52d9-456e-8436-6f26bacfae83",
+        "match_study_id": "",
+        "Lab": "Laboratorio Monar"
+    },
+    {
+        "Study": "Eosinófilos en Moco Nasal",
+        "Description": "Entrega: Mismo día Preparación: Ninguna",
+        "Price": 80.0,
+        "Category": "analisis-clinicos",
+        "Study_id": "660d957e-0ff3-47d8-8967-83634ce0e37c",
+        "match_study_id": "",
+        "Lab": "Laboratorio Monar"
+    },
+    {
+        "Study": "Espermatobioscopía",
+        "Description": "Entrega: Mismo día Preparación: 3 días de abstinencia sexual",
+        "Price": 180.0,
+        "Category": "analisis-clinicos",
+        "Study_id": "72a21e2c-d8e5-4def-87b8-5ed5c6ba4a00",
+        "match_study_id": "",
+        "Lab": "Laboratorio Monar"
+    },
+    {
+        "Study": "Espermocultivo",
+        "Description": "Entrega: 4 días Preparación: 3 días de abstinencia sexual, ni estar bajo tratamiento de antibióticos.",
+        "Price": 200.0,
+        "Category": "analisis-clinicos",
+        "Study_id": "3047c3c1-1895-4510-b122-b5865fee94e2",
+        "match_study_id": "",
+        "Lab": "Laboratorio Monar"
+    },
+    {
+        "Study": "Ex. Cérvico Vaginal",
+        "Description": "Entrega: 4 días Preparación: Sin aplicar medicamentos, sin sangrado y 3 días de abstinencia sexual",
+        "Price": 200.0,
+        "Category": "analisis-clinicos",
+        "Study_id": "b0f28842-b141-406c-8f41-9b2ed34af4e0",
+        "match_study_id": "",
+        "Lab": "Laboratorio Monar"
+    },
+    {
+        "Study": "Ex. Uretral",
+        "Description": "Entrega: 4 días Preparación: Sin aplicar medicamentos y 3 días de abstinencia sexual",
+        "Price": 200.0,
+        "Category": "analisis-clinicos",
+        "Study_id": "f4248c6d-675e-420d-b36f-f2c09fee10de",
+        "match_study_id": "",
+        "Lab": "Laboratorio Monar"
+    },
+    {
+        "Study": "Examen General de Orina",
+        "Description": "Entrega: Mismo día Preparación: Primera muestra de orina de la mañana.",
+        "Price": 50.0,
+        "Category": "analisis-clinicos",
+        "Study_id": "b9138270-d473-46ed-9538-2d1185f81908",
+        "match_study_id": "",
+        "Lab": "Laboratorio Monar"
+    },
+    {
+        "Study": "Factor Reumatoide",
+        "Description": "Entrega: Mismo día Preparación: Ayuno",
+        "Price": 100.0,
+        "Category": "analisis-clinicos",
+        "Study_id": "514c7e0f-6014-4e10-a070-07b7da22283e",
+        "match_study_id": "",
+        "Lab": "Laboratorio Monar"
+    },
+    {
+        "Study": "Fibrinógeno",
+        "Description": "Entrega: Mismo día Preparación: Ayuno",
+        "Price": 170.0,
+        "Category": "analisis-clinicos",
+        "Study_id": "0b140585-5e0e-4d9b-ac22-f4a2d94ed70f",
+        "match_study_id": "",
+        "Lab": "Laboratorio Monar"
+    },
+    {
+        "Study": "Fosfatasa Ácida",
+        "Description": "Entrega: Mismo día Preparación: Ayuno",
+        "Price": 190.0,
+        "Category": "analisis-clinicos",
+        "Study_id": "d786ad18-a53c-4701-a17e-7fe742afd208",
+        "match_study_id": "",
+        "Lab": "Laboratorio Monar"
+    },
+    {
+        "Study": "Fosfatasa Alcalina",
+        "Description": "Entrega: Mismo día Preparación: Ayuno",
+        "Price": 100.0,
+        "Category": "analisis-clinicos",
+        "Study_id": "dc8b14c3-2f36-425d-a161-42456378d07d",
+        "match_study_id": "",
+        "Lab": "Laboratorio Monar"
+    },
+    {
+        "Study": "Fosfolípidos",
+        "Description": "Entrega: 4 días Preparación: Ayuno",
+        "Price": 140.0,
+        "Category": "analisis-clinicos",
+        "Study_id": "575f3e5e-c8e9-4905-b6a5-db344176f9b7",
+        "match_study_id": "",
+        "Lab": "Laboratorio Monar"
+    },
+    {
+        "Study": "Fósforo",
+        "Description": "Entrega: Mismo día Preparación: Ayuno",
+        "Price": 70.0,
+        "Category": "analisis-clinicos",
+        "Study_id": "35009c94-487b-4e03-a3be-e171410035c5",
+        "match_study_id": "",
+        "Lab": "Laboratorio Monar"
+    },
+    {
+        "Study": "Gamma-glutamil Transpeptidasa",
+        "Description": "Entrega: Mismo día Preparación: Ayuno",
+        "Price": 90.0,
+        "Category": "analisis-clinicos",
+        "Study_id": "33d77ba9-b7a0-4f0a-b5fc-787776a30c40",
+        "match_study_id": "",
+        "Lab": "Laboratorio Monar"
+    },
+    {
+        "Study": "Glucosa",
+        "Description": "Entrega: Mismo día Preparación: Ayuno",
+        "Price": 50.0,
+        "Category": "analisis-clinicos",
+        "Study_id": "470fe426-18a9-4e30-a88b-6d51387ecf7c",
+        "match_study_id": "",
+        "Lab": "Laboratorio Monar"
+    },
+    {
+        "Study": "Glucosa Postprandial",
+        "Description": "Entrega: Mismo día Preparación: Ayuno",
+        "Price": 50.0,
+        "Category": "analisis-clinicos",
+        "Study_id": "85056746-8b9b-4376-893a-8e931cffc12b",
+        "match_study_id": "",
+        "Lab": "Laboratorio Monar"
+    },
+    {
+        "Study": "Grupo Sanguíneo y Factor Rh",
+        "Description": "Entrega: Mismo día Preparación: Ninguna",
+        "Price": 50.0,
+        "Category": "analisis-clinicos",
+        "Study_id": "b30753c7-85cd-46ab-8890-2e25d5da4975",
+        "match_study_id": "",
+        "Lab": "Laboratorio Monar"
+    },
+    {
+        "Study": "Hemocultivo",
+        "Description": "Entrega: 4 días Preparación: Presentarse en pico febril",
+        "Price": 200.0,
+        "Category": "analisis-clinicos",
+        "Study_id": "e8fa2a6d-90ae-4126-8f47-4d933ca0c596",
+        "match_study_id": "",
+        "Lab": "Laboratorio Monar"
+    },
+    {
+        "Study": "Hemoglobina Glucosilada",
+        "Description": "Entrega: Mismo día Preparación: Ayuno",
+        "Price": 250.0,
+        "Category": "analisis-clinicos",
+        "Study_id": "7efc3546-5c00-45a4-bcdd-a668037c3296",
+        "match_study_id": "",
+        "Lab": "Laboratorio Monar"
+    },
+    {
+        "Study": "Hierro Sérico",
+        "Description": "Entrega: 3 días Preparación: Ayuno",
+        "Price": 150.0,
+        "Category": "analisis-clinicos",
+        "Study_id": "0ffc0c4b-b663-4374-a5b0-b27b77c46a98",
+        "match_study_id": "",
+        "Lab": "Laboratorio Monar"
+    },
+    {
+        "Study": "Inmunoglobulinas IgA, IgG, IgM, IgE",
+        "Description": "Entrega: 4 días Preparación: Ayuno",
+        "Price": 800.0,
+        "Category": "analisis-clinicos",
+        "Study_id": "74af900f-1584-4c0a-ab03-e13b45a01d86",
+        "match_study_id": "",
+        "Lab": "Laboratorio Monar"
+    },
+    {
+        "Study": "Investigación de Sangre Oculta",
+        "Description": "Entrega: Mismo día Preparación: Ninguna",
+        "Price": 60.0,
+        "Category": "analisis-clinicos",
+        "Study_id": "4e259e19-db35-4a1e-8a38-1a9bd8dbcc46",
+        "match_study_id": "",
+        "Lab": "Laboratorio Monar"
+    },
+    {
+        "Study": "Lipasa",
+        "Description": "Entrega: Mismo día Preparación: Ayuno",
+        "Price": 150.0,
+        "Category": "analisis-clinicos",
+        "Study_id": "0cb1e20b-1052-46b8-ab96-839a0852583e",
+        "match_study_id": "",
+        "Lab": "Laboratorio Monar"
+    },
+    {
+        "Study": "Lípidos Totales",
+        "Description": "Entrega: Mismo día Preparación: Ayuno",
+        "Price": 220.0,
+        "Category": "analisis-clinicos",
+        "Study_id": "368994ef-1d01-413e-9f64-680e4a383d60",
+        "match_study_id": "",
+        "Lab": "Laboratorio Monar"
+    },
+    {
+        "Study": "Magnesio Sérico",
+        "Description": "Entrega: Mismo día Preparación: Ayuno",
+        "Price": 100.0,
+        "Category": "analisis-clinicos",
+        "Study_id": "787ee9b7-ed28-45b6-ac0e-4892abe92483",
+        "match_study_id": "",
+        "Lab": "Laboratorio Monar"
+    },
+    {
+        "Study": "Nitrógeno Uréico (BUN)",
+        "Description": "Entrega: Mismo día Preparación: Ayuno",
+        "Price": 50.0,
+        "Category": "analisis-clinicos",
+        "Study_id": "183b3e80-d691-450c-94d3-63f4232aa2de",
+        "match_study_id": "",
+        "Lab": "Laboratorio Monar"
+    },
+    {
+        "Study": "Oxiuros – Raspado Perianal",
+        "Description": "Entrega: Mismo día Preparación: Ninguna",
+        "Price": 50.0,
+        "Category": "analisis-clinicos",
+        "Study_id": "241c6dad-2a76-4904-b789-c28abfcde4b4",
+        "match_study_id": "",
+        "Lab": "Laboratorio Monar"
+    },
+    {
+        "Study": "Papanicolaou",
+        "Description": "Entrega: 8 días Preparación: Sin aplicar medicamentos, sin sangrado y 3 días de abstinencia sexual",
+        "Price": 250.0,
+        "Category": "analisis-clinicos",
+        "Study_id": "e5b3c753-c86a-4bbb-b5c2-77d5dac71f5b",
+        "match_study_id": "",
+        "Lab": "Laboratorio Monar"
+    },
+    {
+        "Study": "Perfil Cardiaco (Tgo, Dhl, Cpk, Mb)",
+        "Description": "Entrega: Mismo día Preparación: Ayuno",
+        "Price": 380.0,
+        "Category": "analisis-clinicos",
+        "Study_id": "f0bb2787-4171-491e-aca1-9678f11ee8b6",
+        "match_study_id": "",
+        "Lab": "Laboratorio Monar"
+    },
+    {
+        "Study": "Perfil De Lípidos",
+        "Description": "Entrega: Mismo día Preparación: Ayuno",
+        "Price": 360.0,
+        "Category": "analisis-clinicos",
+        "Study_id": "bb06397c-ebdd-4436-a7e0-4e9c8a6b02d4",
+        "match_study_id": "",
+        "Lab": "Laboratorio Monar"
+    },
+    {
+        "Study": "Perfil Ginecológico",
+        "Description": "Entrega: 4 días Preparación: Ayuno",
+        "Price": 890.0,
+        "Category": "analisis-clinicos",
+        "Study_id": "5e133760-e653-4e41-b333-a3565a2e373a",
+        "match_study_id": "",
+        "Lab": "Laboratorio Monar"
+    },
+    {
+        "Study": "Perfil Hepático",
+        "Description": "Entrega: Mismo día Preparación: Ayuno",
+        "Price": 670.0,
+        "Category": "analisis-clinicos",
+        "Study_id": "e3e82014-71c3-4347-baa7-3d15d72711c8",
+        "match_study_id": "",
+        "Lab": "Laboratorio Monar"
+    },
+    {
+        "Study": "Perfil Hormonal Femenino(Perfil Ginecológico y Perfil Tiroideo)",
+        "Description": "Entrega: 4 días Preparación: Ayuno",
+        "Price": 1390.0,
+        "Category": "analisis-clinicos",
+        "Study_id": "2c41fd1b-2847-4398-a9eb-7e6c1a3da8b3",
+        "match_study_id": "",
+        "Lab": "Laboratorio Monar"
+    },
+    {
+        "Study": "Perfil Prenatal (Bh, Qs3, Gpo, Vdrl, Ego)",
+        "Description": "Entrega: Mismo día Preparación: Ayuno y orina",
+        "Price": 420.0,
+        "Category": "analisis-clinicos",
+        "Study_id": "7282480f-f893-49e0-b56a-dd4e6cec3747",
+        "match_study_id": "",
+        "Lab": "Laboratorio Monar"
+    },
+    {
+        "Study": "Perfil Preoperatorio (Bh, Qs3, Tp, Tpt, Gpo y Rh Vdrl, Ego)",
+        "Description": "Entrega: Mismo día Preparación: Ayuno y orina",
+        "Price": 410.0,
+        "Category": "analisis-clinicos",
+        "Study_id": "893b0a16-7cf0-4bc5-8935-fecbaf4a065b",
+        "match_study_id": "",
+        "Lab": "Laboratorio Monar"
+    },
+    {
+        "Study": "Perfil Renal (Urea, Creat, Prot Tot, Albúmina, Globulina, Rel A/g, Ego, Uro, Dep. de Creatinina)",
+        "Description": "Entrega: 4 días Preparación: Ayuno",
+        "Price": 500.0,
+        "Category": "analisis-clinicos",
+        "Study_id": "76fdcb16-a6a8-4205-be5c-579f36ea5121",
+        "match_study_id": "",
+        "Lab": "Laboratorio Monar"
+    },
+    {
+        "Study": "Perfil Reumático (Ael, Fr, Pcr, Vsg, Ex. Far, Ác. Úrico)",
+        "Description": "Entrega: 4 días Preparación: Ayuno",
+        "Price": 600.0,
+        "Category": "analisis-clinicos",
+        "Study_id": "3e94cca8-3aee-4146-bc50-c85135643ca5",
+        "match_study_id": "",
+        "Lab": "Laboratorio Monar"
+    },
+    {
+        "Study": "Perfil Tendencia Hermorrágica (Bh, Fibrinógeno, Tp, Tpt, Ts, Tc, Plaq)",
+        "Description": "Entrega: Mismo día Preparación: Ayuno",
+        "Price": 490.0,
+        "Category": "analisis-clinicos",
+        "Study_id": "a77e175a-558c-4527-8d85-40e03c474d8c",
+        "match_study_id": "",
+        "Lab": "Laboratorio Monar"
+    },
+    {
+        "Study": "Perfil Tiroideo (Tuptake, T3, T4, Yodo, Itl, Tsh)",
+        "Description": "Entrega: 4 días Preparación: Ayuno",
+        "Price": 500.0,
+        "Category": "analisis-clinicos",
+        "Study_id": "4222543d-c5d3-472a-8d98-cc684f2022f0",
+        "match_study_id": "",
+        "Lab": "Laboratorio Monar"
+    },
+    {
+        "Study": "Proteína «C» Reactiva",
+        "Description": "Entrega: Mismo día Preparación: Ayuno",
+        "Price": 150.0,
+        "Category": "analisis-clinicos",
+        "Study_id": "f3c0b392-228e-49f7-bd59-8ff552de7313",
+        "match_study_id": "",
+        "Lab": "Laboratorio Monar"
+    },
+    {
+        "Study": "Proteínas Totales",
+        "Description": "Entrega: Mismo día Preparación: Ayuno",
+        "Price": 120.0,
+        "Category": "analisis-clinicos",
+        "Study_id": "f48fe326-bc33-43b7-a6d4-2147b70a0308",
+        "match_study_id": "",
+        "Lab": "Laboratorio Monar"
+    },
+    {
+        "Study": "Prueba de Embarazo",
+        "Description": "Entrega: Mismo día Preparación: Ninguna",
+        "Price": 120.0,
+        "Category": "analisis-clinicos",
+        "Study_id": "ca62b5ef-f13d-4a41-a617-35fe1306a33b",
+        "match_study_id": "",
+        "Lab": "Laboratorio Monar"
+    },
+    {
+        "Study": "Pruebas Cruzadas",
+        "Description": "Entrega: Mismo día Preparación: Ayuno",
+        "Price": 160.0,
+        "Category": "analisis-clinicos",
+        "Study_id": "c53251cc-611c-44b2-b68c-6805f300a2ce",
+        "match_study_id": "",
+        "Lab": "Laboratorio Monar"
+    },
+    {
+        "Study": "Química Sanguínea 3",
+        "Description": "Entrega: Mismo día Preparación: Ayuno",
+        "Price": 150.0,
+        "Category": "analisis-clinicos",
+        "Study_id": "0cb9fee0-4122-4797-9ad6-e30feebd0544",
+        "match_study_id": "",
+        "Lab": "Laboratorio Monar"
+    },
+    {
+        "Study": "Química Sanguínea 4",
+        "Description": "Entrega: Mismo día Preparación: Ayuno",
+        "Price": 200.0,
+        "Category": "analisis-clinicos",
+        "Study_id": "2f63af27-a59b-451c-a657-7720a8e02293",
+        "match_study_id": "",
+        "Lab": "Laboratorio Monar"
+    },
+    {
+        "Study": "Química Sanguínea 5",
+        "Description": "Entrega: Mismo día Preparación: Ayuno",
+        "Price": 250.0,
+        "Category": "analisis-clinicos",
+        "Study_id": "d10d5e18-773b-48b4-bc49-13811152a8a6",
+        "match_study_id": "",
+        "Lab": "Laboratorio Monar"
+    },
+    {
+        "Study": "Química Sanguínea 6",
+        "Description": "Entrega: Mismo día Preparación: Ayuno",
+        "Price": 320.0,
+        "Category": "analisis-clinicos",
+        "Study_id": "9e19ab78-e02f-4e75-accb-03a3055584a4",
+        "match_study_id": "",
+        "Lab": "Laboratorio Monar"
+    },
+    {
+        "Study": "Química Sanguínea 8",
+        "Description": "Entrega: Mismo día Preparación: Ayuno",
+        "Price": 450.0,
+        "Category": "analisis-clinicos",
+        "Study_id": "9bb265b9-a4cc-4521-89d6-8b6eb571ea64",
+        "match_study_id": "",
+        "Lab": "Laboratorio Monar"
+    },
+    {
+        "Study": "Química Sanguínea 10",
+        "Description": "Entrega: Mismo día Preparación: Ayuno",
+        "Price": 480.0,
+        "Category": "analisis-clinicos",
+        "Study_id": "53fa258a-0391-4315-87f0-b559f6c1085b",
+        "match_study_id": "",
+        "Lab": "Laboratorio Monar"
+    },
+    {
+        "Study": "Química Sanguínea 12",
+        "Description": "Entrega: Mismo día Preparación: Ayuno",
+        "Price": 500.0,
+        "Category": "analisis-clinicos",
+        "Study_id": "052b4daf-d872-498b-9057-c704598a71bb",
+        "match_study_id": "",
+        "Lab": "Laboratorio Monar"
+    },
+    {
+        "Study": "Química Sanguínea 18",
+        "Description": "Entrega: Mismo día Preparación: Ayuno",
+        "Price": 550.0,
+        "Category": "analisis-clinicos",
+        "Study_id": "29cd38f0-d4a4-4a6c-be92-e43adfe6607f",
+        "match_study_id": "",
+        "Lab": "Laboratorio Monar"
+    },
+    {
+        "Study": "Química Sanguínea 24",
+        "Description": "Entrega: Mismo día Preparación: Ayuno",
+        "Price": 600.0,
+        "Category": "analisis-clinicos",
+        "Study_id": "de2221ee-5eaa-4f8a-ad10-596e43a22228",
+        "match_study_id": "",
+        "Lab": "Laboratorio Monar"
+    },
+    {
+        "Study": "Química Sanguínea 27",
+        "Description": "Entrega: Mismo día Preparación: Ayuno",
+        "Price": 650.0,
+        "Category": "analisis-clinicos",
+        "Study_id": "75539877-4237-43b5-89d0-d120fdd00e0b",
+        "match_study_id": "",
+        "Lab": "Laboratorio Monar"
+    },
+    {
+        "Study": "Química Sanguínea 31",
+        "Description": "Entrega: Mismo día Preparación: Ayuno",
+        "Price": 670.0,
+        "Category": "analisis-clinicos",
+        "Study_id": "40dd70ef-b7c5-409b-9b8c-bc59683bfda2",
+        "match_study_id": "",
+        "Lab": "Laboratorio Monar"
+    },
+    {
+        "Study": "Química Sanguínea 35",
+        "Description": "Entrega: Mismo día Preparación: Ayuno",
+        "Price": 720.0,
+        "Category": "analisis-clinicos",
+        "Study_id": "5163c3b8-eacb-404f-8dbb-c282fd6a4154",
+        "match_study_id": "",
+        "Lab": "Laboratorio Monar"
+    },
+    {
+        "Study": "Química Sanguínea 36",
+        "Description": "Entrega: Mismo día Preparación: Ayuno",
+        "Price": 750.0,
+        "Category": "analisis-clinicos",
+        "Study_id": "6802b28e-7c50-4d90-8f2e-28636f7915ae",
+        "match_study_id": "",
+        "Lab": "Laboratorio Monar"
+    },
+    {
+        "Study": "Química Sanguínea 45",
+        "Description": "Entrega: Mismo día Preparación: Ayuno",
+        "Price": 1590.0,
+        "Category": "analisis-clinicos",
+        "Study_id": "e998522f-28ec-4409-964a-9f3aac9096c5",
+        "match_study_id": "",
+        "Lab": "Laboratorio Monar"
+    },
+    {
+        "Study": "Reacciones Febriles",
+        "Description": "Entrega: Mismo día Preparación: Ayuno",
+        "Price": 150.0,
+        "Category": "analisis-clinicos",
+        "Study_id": "2a2bc50b-c8db-4864-a8b4-c864a7c11be9",
+        "match_study_id": "",
+        "Lab": "Laboratorio Monar"
+    },
+    {
+        "Study": "Relación A/G",
+        "Description": "Entrega: Mismo día Preparación: Ayuno",
+        "Price": 120.0,
+        "Category": "analisis-clinicos",
+        "Study_id": "2cc19dd5-c5f1-4b6a-8feb-d1975e9545db",
+        "match_study_id": "",
+        "Lab": "Laboratorio Monar"
+    },
+    {
+        "Study": "Reticulocitos",
+        "Description": "Entrega: Mismo día Preparación: Ayuno",
+        "Price": 50.0,
+        "Category": "analisis-clinicos",
+        "Study_id": "227d568e-0eab-46d1-b3cf-085af4f276d8",
+        "match_study_id": "",
+        "Lab": "Laboratorio Monar"
+    },
+    {
+        "Study": "Sangre Oculta en Heces",
+        "Description": "Entrega: Mismo día Preparación: Muestra fecal",
+        "Price": 60.0,
+        "Category": "analisis-clinicos",
+        "Study_id": "68153341-f715-4a42-8cc1-466df295514a",
+        "match_study_id": "",
+        "Lab": "Laboratorio Monar"
+    },
+    {
+        "Study": "Sedimentación Globular",
+        "Description": "Entrega: Mismo día Preparación: Ninguna",
+        "Price": 40.0,
+        "Category": "analisis-clinicos",
+        "Study_id": "79783197-34b2-46c7-aa5d-14f3b4b794f3",
+        "match_study_id": "",
+        "Lab": "Laboratorio Monar"
+    },
+    {
+        "Study": "T. Protrombina",
+        "Description": "Entrega: Mismo día Preparación: Ayuno",
+        "Price": 80.0,
+        "Category": "analisis-clinicos",
+        "Study_id": "e3221bd8-e939-469d-8c24-f6bced3e48f6",
+        "match_study_id": "",
+        "Lab": "Laboratorio Monar"
+    },
+    {
+        "Study": "T. Trombina",
+        "Description": "Entrega: Mismo día Preparación: Ayuno",
+        "Price": 160.0,
+        "Category": "analisis-clinicos",
+        "Study_id": "2f14783e-645d-49b9-b8aa-9c012b0f5aa0",
+        "match_study_id": "",
+        "Lab": "Laboratorio Monar"
+    },
+    {
+        "Study": "T. Tromboplastina Parcial",
+        "Description": "Entrega: Mismo día Preparación: Ayuno",
+        "Price": 80.0,
+        "Category": "analisis-clinicos",
+        "Study_id": "026a3656-b9fc-4ac0-86ea-954fe548e7d2",
+        "match_study_id": "",
+        "Lab": "Laboratorio Monar"
+    },
+    {
+        "Study": "Tamiz Metabólico Neonatal",
+        "Description": "Entrega: 8 días Preparación: Ninguna",
+        "Price": 400.0,
+        "Category": "analisis-clinicos",
+        "Study_id": "e0a4999d-17de-429a-be4a-e30ce70f0b87",
+        "match_study_id": "",
+        "Lab": "Laboratorio Monar"
+    },
+    {
+        "Study": "Tamiz Metabólico Neonatal Ampliado",
+        "Description": "Entrega: 8 días Preparación: Ninguna",
+        "Price": 710.0,
+        "Category": "analisis-clinicos",
+        "Study_id": "ba979687-eb5e-4e72-819f-99d140ec5c1d",
+        "match_study_id": "",
+        "Lab": "Laboratorio Monar"
+    },
+    {
+        "Study": "Tiempo de Sangrado y Coagulación",
+        "Description": "Entrega: Mismo día Preparación: Ayuno",
+        "Price": 60.0,
+        "Category": "analisis-clinicos",
+        "Study_id": "2d963e3b-5ef0-43fd-bda8-6aa75e1b7a73",
+        "match_study_id": "",
+        "Lab": "Laboratorio Monar"
+    },
+    {
+        "Study": "Transaminasa G. Oxalacética",
+        "Description": "Entrega: Mismo día Preparación: Ayuno",
+        "Price": 100.0,
+        "Category": "analisis-clinicos",
+        "Study_id": "881a593b-c8aa-4241-8785-6481a353b377",
+        "match_study_id": "",
+        "Lab": "Laboratorio Monar"
+    },
+    {
+        "Study": "Transaminasa G. Pirúvica",
+        "Description": "Entrega: Mismo día Preparación: Ayuno",
+        "Price": 100.0,
+        "Category": "analisis-clinicos",
+        "Study_id": "28559b40-34b1-4870-be80-6326aae1019c",
+        "match_study_id": "",
+        "Lab": "Laboratorio Monar"
+    },
+    {
+        "Study": "Treponema en Campo Obscuro",
+        "Description": "Entrega: 1 día Preparación: Sin medicamento",
+        "Price": 150.0,
+        "Category": "analisis-clinicos",
+        "Study_id": "96649dc5-394c-401c-864a-a88a3cf53443",
+        "match_study_id": "",
+        "Lab": "Laboratorio Monar"
+    },
+    {
+        "Study": "Triglicéridos",
+        "Description": "Entrega: Mismo día Preparación: Ayuno",
+        "Price": 100.0,
+        "Category": "analisis-clinicos",
+        "Study_id": "a14f5cef-437d-4ed2-bfda-c725697f9a8e",
+        "match_study_id": "",
+        "Lab": "Laboratorio Monar"
+    },
+    {
+        "Study": "Urea",
+        "Description": "Entrega: Mismo día Preparación: Ayuno",
+        "Price": 50.0,
+        "Category": "analisis-clinicos",
+        "Study_id": "f099ed72-72de-42f5-aa8d-f500005ac43f",
+        "match_study_id": "",
+        "Lab": "Laboratorio Monar"
+    },
+    {
+        "Study": "Urocultivo",
+        "Description": "Entrega: 4 días Preparación: Primera muestra de orina de la mañana en frasco estéril.",
+        "Price": 200.0,
+        "Category": "analisis-clinicos",
+        "Study_id": "bf25a310-14d1-44e2-88b0-cbc3d1d65012",
+        "match_study_id": "",
+        "Lab": "Laboratorio Monar"
+    },
+    {
+        "Study": "V.D.R.L.",
+        "Description": "Entrega: Mismo día Preparación: Ayuno",
+        "Price": 70.0,
+        "Category": "analisis-clinicos",
+        "Study_id": "b1027b08-adf2-4d52-a46a-f09cd02d252c",
+        "match_study_id": "",
+        "Lab": "Laboratorio Monar"
+    },
+    {
+        "Study": "V.I.H.",
+        "Description": "Entrega: Mismo día Preparación: Ayuno",
+        "Price": 280.0,
+        "Category": "analisis-clinicos",
+        "Study_id": "7ab1d5b1-166b-459f-ba89-bf83fa41378c",
+        "match_study_id": "",
+        "Lab": "Laboratorio Monar"
+    },
+    {
+        "Study": "Audiometría Tonal",
+        "Description": "Entrega: Mismo día Preparación: Ninguna",
+        "Price": 300.0,
+        "Category": "audiometria",
+        "Study_id": "61c28c7c-ab66-4fab-8584-9a6dcb4c6597",
+        "match_study_id": "",
+        "Lab": "Laboratorio Monar"
+    },
+    {
+        "Study": "Densitometría Central Ósea (cadera y columna)",
+        "Description": "Entrega: Mismo día Preparación: Ninguna",
+        "Price": 400.0,
+        "Category": "densitometria",
+        "Study_id": "1c93e9a1-8546-4eba-b96d-6c8d951b5a44",
+        "match_study_id": "",
+        "Lab": "Laboratorio Monar"
+    },
+    {
+        "Study": "Electrocardiograma de 12 canales en reposo",
+        "Description": "Entrega: Mismo día Preparación: Ninguna",
+        "Price": 200.0,
+        "Category": "electrocardiograma",
+        "Study_id": "e5bcc66f-74da-47c7-9d28-97bc7cec67cc",
+        "match_study_id": "",
+        "Lab": "Laboratorio Monar"
+    },
+    {
+        "Study": "Convencional",
+        "Description": "Entrega: Dos días Preparación: - El paciente deberá presentarse bañado con jabón neutro y cabello seco, sin gel, sin spray y sin haberse pintado el cabello un mes antes del estudio por lo menos.\r\n- Debe de dormir a las 12:00 a.m. y despertarse a las 4:00 a.m.\r\n- Los pacientes que tengan diagnosticada epilepsia no se deben de desvelar\r\n- Se sugiere presentarse con ropa de algodón, puede tomar su desayuno y alimentos de manera normal.\r\n- Se tiene que realizar cita desde un día antes.",
+        "Price": 1.0,
+        "Category": "electroencefalograma",
+        "Study_id": "7b12229e-3dfe-490f-8bf8-7d700260cf34",
+        "match_study_id": "",
+        "Lab": "Laboratorio Monar"
+    },
+    {
+        "Study": "Con Mapeo Cerebral",
+        "Description": "Entrega: Dos días Preparación: El paciente deberá presentarse bañado con jabón neutro y cabello seco, sin gel, sin spray y sin haberse pintado el cabello un mes antes del estudio por lo menos. \r\nDebe de dormir a las 12:00 a.m. y despertarse a las 4:00 a.m. \r\nLos pacientes que tengan diagnosticada epilepsia no se deben de desvelar. \r\nSe sugiere presentarse con ropa de algodón, puede tomar su desayuno y alimentos de manera normal. \r\nSe tiene que realizar cita desde un día antes.",
+        "Price": 1.0,
+        "Category": "electroencefalograma",
+        "Study_id": "0c9266b5-ffec-4ccd-8553-5de67d5a594f",
+        "match_study_id": "",
+        "Lab": "Laboratorio Monar"
+    },
+    {
+        "Study": "Espirometría",
+        "Description": "Entrega: Mismo día Preparación: Ninguna",
+        "Price": 300.0,
+        "Category": "espirometria",
+        "Study_id": "e0510bb9-7e50-4818-9841-b8f16bea4b73",
+        "match_study_id": "",
+        "Lab": "Laboratorio Monar"
+    },
+    {
+        "Study": "Bilateral",
+        "Description": "Entrega: Mismo día Preparación: Ninguna",
+        "Price": 400.0,
+        "Category": "mastografia",
+        "Study_id": "51cbe211-efa9-4bc6-86d0-6c93b6cd92a4",
+        "match_study_id": "",
+        "Lab": "Laboratorio Monar"
+    },
+    {
+        "Study": "Unilateral",
+        "Description": "Entrega: Mismo día Preparación: Ninguna",
+        "Price": 300.0,
+        "Category": "mastografia",
+        "Study_id": "43a5c69a-9d05-44dd-9e17-90b886cd53b0",
+        "match_study_id": "",
+        "Lab": "Laboratorio Monar"
+    },
+    {
+        "Study": "Abdomen",
+        "Description": "Entrega: Mismo día Preparación: Ninguna",
+        "Price": 200.0,
+        "Category": "rayos-x",
+        "Study_id": "904a4af0-c0dd-4060-a1da-f1a7371bfde0",
+        "match_study_id": "",
+        "Lab": "Laboratorio Monar"
+    },
+    {
+        "Study": "Columna Cervical (AP y Lateral)",
+        "Description": "Entrega: Mismo día Preparación: Ninguna",
+        "Price": 400.0,
+        "Category": "rayos-x",
+        "Study_id": "e46925f9-eaa9-47c4-9900-acf848d21c53",
+        "match_study_id": "",
+        "Lab": "Laboratorio Monar"
+    },
+    {
+        "Study": "Columna Dorsal (AP y Lateral)",
+        "Description": "Entrega: Mismo día Preparación: Ninguna",
+        "Price": 400.0,
+        "Category": "rayos-x",
+        "Study_id": "cf558df7-c3d9-4cad-9e78-7a907b46d20d",
+        "match_study_id": "",
+        "Lab": "Laboratorio Monar"
+    },
+    {
+        "Study": "Columna Lumbar (AP y Lateral)",
+        "Description": "Entrega: Mismo día Preparación: Se recomienda hacer esta preparación un día antes del estudio. Podrá desayunar y comer alimentos blandos el día en que se prepare, ni grasas, ni carnes rojas, ni lácteos. Tomar un frasco de x prep a las 5:00 hrs p.m. con jugo de naranja un día antes de su estudio.",
+        "Price": 400.0,
+        "Category": "rayos-x",
+        "Study_id": "d671707e-c118-457f-90f2-6cb6dcfaede6",
+        "match_study_id": "",
+        "Lab": "Laboratorio Monar"
+    },
+    {
+        "Study": "Senos Paranasales (Cardwell, Waters y Lateral de Cráneo)",
+        "Description": "Entrega: Mismo día Preparación: Ninguna",
+        "Price": 600.0,
+        "Category": "rayos-x",
+        "Study_id": "4986b2d4-aa2e-4d30-87c8-eb65e23ef2a6",
+        "match_study_id": "",
+        "Lab": "Laboratorio Monar"
+    },
+    {
+        "Study": "Serie Cráneo",
+        "Description": "Entrega: Mismo día Preparación: Ninguna",
+        "Price": 400.0,
+        "Category": "rayos-x",
+        "Study_id": "83e807f1-22a7-4b52-8ce9-c25d9bc112cf",
+        "match_study_id": "",
+        "Lab": "Laboratorio Monar"
+    },
+    {
+        "Study": "Tórax",
+        "Description": "Entrega: Mismo día Preparación: Ninguna",
+        "Price": 200.0,
+        "Category": "rayos-x",
+        "Study_id": "902f11a8-07c8-4723-9bd3-83e10faece7e",
+        "match_study_id": "",
+        "Lab": "Laboratorio Monar"
+    },
+    {
+        "Study": "Tórax Óseo",
+        "Description": "Entrega: Mismo día Preparación: Ninguna",
+        "Price": 200.0,
+        "Category": "rayos-x",
+        "Study_id": "4bc4a4ee-ab32-4552-bb16-c597fabac228",
+        "match_study_id": "",
+        "Lab": "Laboratorio Monar"
+    },
+    {
+        "Study": "Colangiografía por sonda",
+        "Description": "Entrega: Mismo día Preparación: Ninguna",
+        "Price": 1000.0,
+        "Category": "rayos-x",
+        "Study_id": "d0914a88-6731-4775-9ef8-08f3c899ede9",
+        "match_study_id": "",
+        "Lab": "Laboratorio Monar"
+    },
+    {
+        "Study": "Colon por enema",
+        "Description": "Entrega: Mismo día Preparación: Se recomienda hacer esta preparación un día antes del estudio. Podrá desayunar y comer alimentos blandos el día en que se prepare, ni grasas, ni carnes rojas, ni lácteos. (En el caso de la Urografía Excretora y el Colon por Enema necesita traer la solicitud original de su estudio expedida por su médico). \r\nTomar un frasco de x prep a las 5:00 hrs p.m. con jugo de naranja un día antes de su estudio y realizar 2 lavados intestinales de la siguiente manera: \r\n1.- Preparar 2 lts. de agua hervida con una cucharada de sal de cocina. \r\n2.- Aplicar los 2 lts. de agua vía rectal por medio de un irrigador. \r\n3.-El paciente deberá acostarse boca abajo para la aplicación de los lavados, al terminar la aplicación deberá retener el agua y girar en torno a su cuerpo para lavar bien el intestino durante 15 min. \r\nDespués podrá evacuar. \r\n-1er. Lavado intestinal a las 10:00 p.m. \r\n-2º. Lavado intestinal (2 ó 3 hrs. antes de presentarse a su estudio). \r\n*Asistir en ayuno y con un familiar.",
+        "Price": 1500.0,
+        "Category": "rayos-x",
+        "Study_id": "af9a1ae3-6eb0-4056-b5c6-2fd174ffbf6a",
+        "match_study_id": "",
+        "Lab": "Laboratorio Monar"
+    },
+    {
+        "Study": "Flebografía",
+        "Description": "Entrega: Mismo día Preparación:  Compresión durante 10 min. en el punto de la punción. \r\nSe recomienda realizar un vendaje compresivo en la zona del estudio. \r\nSe necesita reposo en cama durante las 24 hrs posteriores al estudio. \r\nDeberá sacar su cita el último día de su menstruación, el estudio se debe realizar dos días después. \r\nAplicar un fleet vía oral dos horas antes del estudio. \r\nAplicar ducha vaginal hora y media antes del estudio. \r\nTomar dos buscapinas antes de venir a su estudio y traer dos toallas sanitarias. \r\nPresentarse en ayunas y con un familiar el día de su estudio.",
+        "Price": 1800.0,
+        "Category": "rayos-x",
+        "Study_id": "846e7258-364a-41ce-ad91-b2b79da3cc02",
+        "match_study_id": "",
+        "Lab": "Laboratorio Monar"
+    },
+    {
+        "Study": "Histerosalpingografía",
+        "Description": "Entrega: Mismo día Preparación:  Deberá sacar su cita el último día de su menstruación, el estudio se debe realizar dos días después. Aplicar un fleet vía oral dos horas antes del estudio. Aplicar ducha vaginal hora y media antes del estudio. Tomar dos buscapinas antes de venir a su estudio y traer dos toallas sanitarias. Presentarse en ayunas y con un familiar el día de su estudio.",
+        "Price": 1000.0,
+        "Category": "rayos-x",
+        "Study_id": "8e1b282e-2d82-44c9-9765-76576455f7d8",
+        "match_study_id": "",
+        "Lab": "Laboratorio Monar"
+    },
+    {
+        "Study": "Serie Cardiaca",
+        "Description": "Entrega: Mismo día Preparación: Ninguna",
+        "Price": 1000.0,
+        "Category": "rayos-x",
+        "Study_id": "62c460d4-aa21-4237-83ce-7bfc9e560afb",
+        "match_study_id": "",
+        "Lab": "Laboratorio Monar"
+    },
+    {
+        "Study": "Serie Esofago-Gastroduodenal",
+        "Description": "Entrega: Mismo día Preparación: Ayuno",
+        "Price": 1000.0,
+        "Category": "rayos-x",
+        "Study_id": "e5abbad9-bb5b-4e3e-a217-ab345a35c222",
+        "match_study_id": "",
+        "Lab": "Laboratorio Monar"
+    },
+    {
+        "Study": "Tránsito Intestinal",
+        "Description": "Entrega: Mismo día Preparación: Ayuno",
+        "Price": 1000.0,
+        "Category": "rayos-x",
+        "Study_id": "02c0a6bf-52b6-4a96-9b68-9e0fb7ad00fb",
+        "match_study_id": "",
+        "Lab": "Laboratorio Monar"
+    },
+    {
+        "Study": "Urografía Excretora",
+        "Description": "Entrega: Mismo día Preparación: Se recomienda hacer esta preparación un día antes del estudio. Podrá desayunar y comer alimentos blandos el día en que se prepare, ni grasas, ni carnes rojas, ni lácteos. (En el caso de la Urografía Excretora y el Colon por Enema necesita traer la solicitud original de su estudio expedida por su médico). \r\nTomar un frasco de x prep a las 5:00 hrs p.m. con jugo de naranja un día antes de su estudio y realizar 2 lavados intestinales de la siguiente manera: \r\n1.- Preparar 2 lts. de agua hervida con una cucharada de sal de cocina. \r\n2.- Aplicar los 2 lts. de agua vía rectal por medio de un irrigador. \r\n3.-El paciente deberá acostarse boca abajo para la aplicación de los lavados, al terminar la aplicación deberá retener el agua y girar en torno a su cuerpo para lavar bien el intestino durante 15 min. \r\nDespués podrá evacuar \r\n-1er. Lavado intestinal a las 10:00 p.m. \r\n-2º. Lavado intestinal (2 ó 3 hrs. antes de presentarse a su estudio). \r\n*Asistir en ayuno y con un familiar.",
+        "Price": 1500.0,
+        "Category": "rayos-x",
+        "Study_id": "47ff613b-3045-46ad-9a43-1d56ca504b19",
+        "match_study_id": "",
+        "Lab": "Laboratorio Monar"
+    },
+    {
+        "Study": "Estudio Simple",
+        "Description": "Entrega: Mismo día Preparación: Ninguna",
+        "Price": 4100.0,
+        "Category": "tomografia",
+        "Study_id": "2c22f936-5137-47b8-b2b6-7314d364728a",
+        "match_study_id": "",
+        "Lab": "Laboratorio Monar"
+    },
+    {
+        "Study": "Estudio Contrastado",
+        "Description": "Entrega: Mismo día Preparación: Ayuno y solicitud médica",
+        "Price": 4500.0,
+        "Category": "tomografia",
+        "Study_id": "a7887c6b-993e-4c6b-ae76-ca487cd9ef18",
+        "match_study_id": "",
+        "Lab": "Laboratorio Monar"
+    },
+    {
+        "Study": "Abdomen Inferior",
+        "Description": "Entrega: Mismo día Preparación: Tomar agua",
+        "Price": 350.0,
+        "Category": "ultrasonido",
+        "Study_id": "341bb04c-d912-43e7-9532-b20561b71402",
+        "match_study_id": "",
+        "Lab": "Laboratorio Monar"
+    },
+    {
+        "Study": "Abdomen Superior",
+        "Description": "Entrega: Mismo día Preparación: Ayuno",
+        "Price": 350.0,
+        "Category": "ultrasonido",
+        "Study_id": "21c9db11-b5ed-422d-bc56-d189dc6cc212",
+        "match_study_id": "",
+        "Lab": "Laboratorio Monar"
+    },
+    {
+        "Study": "Abdomen Total",
+        "Description": "Entrega: Mismo día Preparación: Ayuno",
+        "Price": 700.0,
+        "Category": "ultrasonido",
+        "Study_id": "1a04d2f6-8209-4d7b-a26b-8ca68b8b390e",
+        "match_study_id": "",
+        "Lab": "Laboratorio Monar"
+    },
+    {
+        "Study": "Endovaginal",
+        "Description": "Entrega: Mismo día Preparación: Ninguna",
+        "Price": 350.0,
+        "Category": "ultrasonido",
+        "Study_id": "20d151d0-7d29-4c9d-a38b-bc29ef35896a",
+        "match_study_id": "",
+        "Lab": "Laboratorio Monar"
+    },
+    {
+        "Study": "Hepato-Biliar",
+        "Description": "Entrega: Mismo día Preparación: Ayuno",
+        "Price": 350.0,
+        "Category": "ultrasonido",
+        "Study_id": "66812204-9e66-4ef8-81ec-1aca05e664f0",
+        "match_study_id": "",
+        "Lab": "Laboratorio Monar"
+    },
+    {
+        "Study": "Mamario",
+        "Description": "Entrega: Mismo día Preparación: Ninguna",
+        "Price": 350.0,
+        "Category": "ultrasonido",
+        "Study_id": "2738c1cc-05df-4d53-9712-52e6698253e6",
+        "match_study_id": "",
+        "Lab": "Laboratorio Monar"
+    },
+    {
+        "Study": "Musculoesquelético",
+        "Description": "Entrega: Mismo día Preparación: Ninguna",
+        "Price": 550.0,
+        "Category": "ultrasonido",
+        "Study_id": "54e71270-f58e-40cb-9cba-d258b6e3b5ec",
+        "match_study_id": "",
+        "Lab": "Laboratorio Monar"
+    },
+    {
+        "Study": "Obstétrico",
+        "Description": "Entrega: Mismo día Preparación: Ninguna",
+        "Price": 350.0,
+        "Category": "ultrasonido",
+        "Study_id": "7d1a6d47-44ee-4ced-88f9-9359e876842b",
+        "match_study_id": "",
+        "Lab": "Laboratorio Monar"
+    },
+    {
+        "Study": "Pancreático",
+        "Description": "Entrega: Mismo día Preparación: Ayuno",
+        "Price": 350.0,
+        "Category": "ultrasonido",
+        "Study_id": "71f71420-9e70-4dfc-b6a7-4e80fbf265c2",
+        "match_study_id": "",
+        "Lab": "Laboratorio Monar"
+    },
+    {
+        "Study": "Pélvico",
+        "Description": "Entrega: Mismo día Preparación: Tomar agua",
+        "Price": 350.0,
+        "Category": "ultrasonido",
+        "Study_id": "c2062f4f-90cc-4928-b2a0-f5ea52488dcc",
+        "match_study_id": "",
+        "Lab": "Laboratorio Monar"
+    },
+    {
+        "Study": "Prostático",
+        "Description": "Entrega: Mismo día Preparación: Tomar agua",
+        "Price": 350.0,
+        "Category": "ultrasonido",
+        "Study_id": "1212995f-1b03-4e0a-b15a-34703c32b6c7",
+        "match_study_id": "",
+        "Lab": "Laboratorio Monar"
+    },
+    {
+        "Study": "Renal",
+        "Description": "Entrega: Mismo día Preparación: Ninguna",
+        "Price": 1100.0,
+        "Category": "ultrasonido",
+        "Study_id": "62f6296b-7e4b-4dca-81e5-6a251bfe5380",
+        "match_study_id": "",
+        "Lab": "Laboratorio Monar"
+    },
+    {
+        "Study": "Transrectal",
+        "Description": "Entrega: Mismo día Preparación: Ninguna",
+        "Price": 450.0,
+        "Category": "ultrasonido",
+        "Study_id": "f71f6fb5-9e1d-45af-9a78-91ded9d14155",
+        "match_study_id": "",
+        "Lab": "Laboratorio Monar"
+    },
+    {
+        "Study": "Arterial",
+        "Description": "Entrega: Mismo día Preparación: Ninguna",
+        "Price": 1100.0,
+        "Category": "ultrasonido",
+        "Study_id": "8ce41f9e-d6ac-47f7-a2d0-b33f4bf830e9",
+        "match_study_id": "",
+        "Lab": "Laboratorio Monar"
+    },
+    {
+        "Study": "Carotídeo",
+        "Description": "Entrega: Mismo día Preparación: Ninguna",
+        "Price": 1100.0,
+        "Category": "ultrasonido",
+        "Study_id": "08180940-721d-42de-a7ca-31ee9a9bf9de",
+        "match_study_id": "",
+        "Lab": "Laboratorio Monar"
+    },
+    {
+        "Study": "Venoso",
+        "Description": "Entrega: Mismo día Preparación: Ninguna",
+        "Price": 1100.0,
+        "Category": "ultrasonido",
+        "Study_id": "1d9fea26-ef79-4cb2-8ba5-e503e9610e5e",
+        "match_study_id": "",
+        "Lab": "Laboratorio Monar"
+    }
+]

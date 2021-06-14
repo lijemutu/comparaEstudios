@@ -1,0 +1,2649 @@
+[
+    {
+        "study_names": [
+            "17-ALFA-HIDROXIPROGESTERONA",
+            "17 ALFA HIDROXI PROGESTERONA"
+        ],
+        "match_study_id": "cc72da00-f800-4c3b-bfb3-f431820c7aad",
+        "Study_id": [
+            "3012d6c1-3e9b-4850-9e8c-e61ab5e6863f",
+            "8a445e4f-d34f-41d0-b846-ee7a78ee9401"
+        ]
+    },
+    {
+        "study_names": [
+            "17-HIDROXICORTICOSTEROIDES EN ORINA",
+            "17-HIDROXICORTICOSTEROIDES ORINA"
+        ],
+        "match_study_id": "2c06f298-e0db-42fe-bb96-f549b3004b4b",
+        "Study_id": [
+            "95ac9ea6-4814-4dd3-bcc2-b95db7b17896",
+            "4ef8b0be-2d7b-4bdc-9626-7063f28be641"
+        ]
+    },
+    {
+        "study_names": [
+            "AC ANTI CARDIOLIPINA IGA",
+            "AC. ANTI CARDIOLIPINAS IgA"
+        ],
+        "match_study_id": "54434f73-0660-4773-b58f-9043d6a75c3f",
+        "Study_id": [
+            "a919e6a2-cad4-4273-a1a2-3758fbe17823",
+            "608a99af-ef95-4123-9672-3a328be3ed39"
+        ]
+    },
+    {
+        "study_names": [
+            "AC ANTI CARDIOLIPINA IGG",
+            "AC. ANTI CARDIOLIPINA IGG"
+        ],
+        "match_study_id": "a758c3ec-3809-4799-8e7e-cec3aa66de77",
+        "Study_id": [
+            "28d4e3ab-bd9a-4017-978a-c01eba6d6b7c",
+            "5977c9e6-2430-4d64-85c9-a7889a7b5758"
+        ]
+    },
+    {
+        "study_names": [
+            "AC ANTI CARDIOLIPINA IGM",
+            "AC. ANTI CARDIOLIPINA IGM"
+        ],
+        "match_study_id": "9a474663-113f-4afe-bc97-7f2d23b1881d",
+        "Study_id": [
+            "fb2d4cdf-c752-40a2-8fda-5ee6db3332b3",
+            "c7572a00-a0a1-45d3-a2bc-0bc8d913097d"
+        ]
+    },
+    {
+        "study_names": [
+            "AC ANTI FOSFATIDILCOLINA",
+            "AC. ANTI FOSFATIDILCOLINA"
+        ],
+        "match_study_id": "b580fdd9-6925-4ed4-8c16-cd9f0a0ce946",
+        "Study_id": [
+            "da37d782-f2e0-4842-aaab-67154ab6b80f",
+            "3de920a4-5c87-45a0-8e72-3ee0d1144c7f"
+        ]
+    },
+    {
+        "study_names": [
+            "AC ANTI-AMIBA (SERAMEBA)",
+            "AC. ANTI AMIBA (SERAMEBA) "
+        ],
+        "match_study_id": "91b51b90-d538-4931-acb4-4c35419d7d25",
+        "Study_id": [
+            "8dbd815b-996e-4072-9b2a-09da1b17449c",
+            "99103b3d-8eee-4338-ae1f-ecbd9a95aab8"
+        ]
+    },
+    {
+        "study_names": [
+            "AC ANTI-BORDETELLA PERTUSSIS",
+            "ANTICUERPOS ANTI BORDETELLA PERTUSIS"
+        ],
+        "match_study_id": "ef74d10c-110e-48db-a128-2ab87da4e870",
+        "Study_id": [
+            "e3c91020-3c6d-41e5-8f30-9010bd8d8495",
+            "5f493dd4-3ab4-456b-b1e7-2d3a56fa93fa"
+        ]
+    },
+    {
+        "study_names": [
+            "AC ANTI-CELULAS PARIETALES",
+            "AC. ANTI CELULAS PARIETALES"
+        ],
+        "match_study_id": "0110e681-f83d-42e4-bb01-26a5fb74488e",
+        "Study_id": [
+            "09b1e83e-cc44-4cd0-8823-4bd635131ec9",
+            "7a71607e-ef7f-44a2-a07f-d6efaa18e718"
+        ]
+    },
+    {
+        "study_names": [
+            "AC ANTI-CENTROMERO",
+            "AC. ANTI CENTROMERO"
+        ],
+        "match_study_id": "ae7c957b-0cc6-46ae-8947-7adfb427bb23",
+        "Study_id": [
+            "a0a8ebdb-a721-4b2e-b444-4969a036a7ef",
+            "d867e281-b5c1-49fa-98aa-e87527e66181"
+        ]
+    },
+    {
+        "study_names": [
+            "AC ANTI-CITOMEGALOVIRUS IGG",
+            "ANTICUERPOS ANTI CITOMEGALOVIRUS IGG"
+        ],
+        "match_study_id": "27efdb4c-2b4e-4b34-9559-a9f8f9da1a94",
+        "Study_id": [
+            "5b98b5d4-112d-4633-b361-1e6552aa8c5a",
+            "1d09e84c-8476-467c-a786-9e23cdcd5dfc"
+        ]
+    },
+    {
+        "study_names": [
+            "AC ANTI-CITOMEGALOVIRUS IGM",
+            "ANTICUERPOS ANTI CITOMEGALOVIRUS IGM"
+        ],
+        "match_study_id": "31c2b28d-f374-4858-86f0-97034b7f66b4",
+        "Study_id": [
+            "d314df97-7fd8-4b83-b56c-bb2fd9278d7a",
+            "7633825a-b874-427a-a7b3-dea4d0ff117e"
+        ]
+    },
+    {
+        "study_names": [
+            "AC ANTI-DENGUE IGG E IGM",
+            "AC. ANTI DENGUE IGG E IGM"
+        ],
+        "match_study_id": "f9f303d2-d140-4906-80dd-1e7180977f61",
+        "Study_id": [
+            "3dc7ca83-e4a5-40ec-aa6c-186537451328",
+            "2549397f-e057-4297-a04a-e26bd4c1bcb4"
+        ]
+    },
+    {
+        "study_names": [
+            "AC ANTI-ENDOMISIALES IGA",
+            "AC. ANTI-ENDOMESIALES IgA"
+        ],
+        "match_study_id": "6059b093-e6ab-455e-bbef-4b3765e97426",
+        "Study_id": [
+            "1825c672-9be5-429e-9f38-026616033c12",
+            "22e5d032-baa4-44cd-8857-3fa3696aaece"
+        ]
+    },
+    {
+        "study_names": [
+            "AC ANTI-FACTOR INTRINSECO",
+            "AC. ANTI FACTOR INTRINSECO"
+        ],
+        "match_study_id": "7a3c775f-cf24-4f03-9672-efc73b8b4864",
+        "Study_id": [
+            "b0c75ac7-096e-4a0f-ab30-09254ceeb147",
+            "d6a22208-1a13-41f3-9ef5-c0663c41dc96"
+        ]
+    },
+    {
+        "study_names": [
+            "AC ANTI-HELICOBACTER PYLORI IGA",
+            "AC. ANTI HELICOBACTER PYLORI IGA"
+        ],
+        "match_study_id": "89a069ed-a0fc-47de-9d43-8cc761173eb9",
+        "Study_id": [
+            "7c35793b-8381-49a4-934a-93f0ecf0b7b1",
+            "17e83aca-1444-49c6-9ca4-5eb3b3275cfb"
+        ]
+    },
+    {
+        "study_names": [
+            "AC ANTI-HELICOBACTER PYLORI IGM",
+            "AC. ANTI HELICOBACTER PYLORI  IGM",
+            "AC. ANTI - HELICOBACTER PYLORI IGM"
+        ],
+        "match_study_id": "eae041e2-9003-4e33-aac5-bb7cabd8c7a4",
+        "Study_id": [
+            "51c60f07-cb80-4688-8287-53ac74f3d730",
+            "ba0aff72-9aec-4c4c-b377-89a9038ab872",
+            "a3bb7f5b-3996-499d-946f-98f6f7fa4550"
+        ]
+    },
+    {
+        "study_names": [
+            "AC ANTI-HEPATITIS C",
+            "AC. ANTI HEPATITIS C "
+        ],
+        "match_study_id": "22c0cd33-1a42-47dc-b687-c3d403ec958f",
+        "Study_id": [
+            "28a416c0-94ed-482d-a034-b3836a177564",
+            "bf4bbc9f-bfb1-4bd1-ae4a-dc376504151a"
+        ]
+    },
+    {
+        "study_names": [
+            "AC ANTI-HEPATITIS E IGG E IGM",
+            "AC. ANTI HEPATITIS E IGG, IGM"
+        ],
+        "match_study_id": "0aaae0d7-dada-4c95-8e71-4a45da920cee",
+        "Study_id": [
+            "1856fbfe-a9eb-479a-8e9e-afa09a9d380d",
+            "ac51ee33-ac82-41fa-906a-9b9d278bf97e"
+        ]
+    },
+    {
+        "study_names": [
+            "AC ANTI-INFLUENZA ( A Y B)",
+            "AC. ANTI INFLUENZA A y B"
+        ],
+        "match_study_id": "6414a27d-68ae-4169-9d78-5ee962b5f8ee",
+        "Study_id": [
+            "66b2e73e-3421-42ab-9cff-99c16ca3d8df",
+            "a40b94e1-ea0a-48d2-be7e-bba8bc7c0def"
+        ]
+    },
+    {
+        "study_names": [
+            "AC ANTI-INSULINA",
+            "AC. ANTI INSULINA"
+        ],
+        "match_study_id": "ab638952-240a-4339-928f-a81463c3bb02",
+        "Study_id": [
+            "03fb7d53-264d-4a9f-b089-d4768d9b41e7",
+            "83b6ed1f-9b33-4f12-aadb-9feeac8d1fde"
+        ]
+    },
+    {
+        "study_names": [
+            "AC ANTI-LEPTOSPIRA",
+            "AC. ANTI LEPTOSPIRA"
+        ],
+        "match_study_id": "4cdf7edc-dd18-49ad-b4a2-c2636aa20ae9",
+        "Study_id": [
+            "e597c095-ae12-4768-b7a0-4f04c6738883",
+            "fdfa2188-c8c9-4ba6-b23f-8930e9b8fbde"
+        ]
+    },
+    {
+        "study_names": [
+            "AC ANTI-MEMBRANA BASAL GLOMERULAR",
+            "AC. ANTI MEMBRANA BASAL GLOMERULAR"
+        ],
+        "match_study_id": "2af4e7b5-31dd-4e7d-962f-b6e906aa2e01",
+        "Study_id": [
+            "cf08fbea-f340-4d7a-bb54-bc352cdc0a21",
+            "bb6b7110-9337-47fb-ab44-4ce865409ee0"
+        ]
+    },
+    {
+        "study_names": [
+            "AC ANTI-MIELINA",
+            "AC. ANTI MIELINA"
+        ],
+        "match_study_id": "3432f76a-4351-476a-9b05-9bbc67dc9783",
+        "Study_id": [
+            "2dd2d4d8-fc13-4038-ba72-427377e13722",
+            "3cef1657-152d-493e-a822-6ca0fce6813a"
+        ]
+    },
+    {
+        "study_names": [
+            "AC ANTI-MITOCONDRIALES",
+            "AC. ANTI MITOCONDRIALES"
+        ],
+        "match_study_id": "4ec72dc3-4ef4-47eb-815e-bf5dbeed3a56",
+        "Study_id": [
+            "18856d37-d364-4d57-bfe6-7971bab1768f",
+            "08e1103b-f5a6-48e1-a7e7-8f02e5502a28"
+        ]
+    },
+    {
+        "study_names": [
+            "AC ANTI-MUSCULO ESTRIADO",
+            "AC. ANTI MUSCULO ESTRIADO"
+        ],
+        "match_study_id": "99d3d593-aa5b-41d0-9b66-01f40c200c21",
+        "Study_id": [
+            "cf8257f1-dbe7-4d08-9841-1d76d283b712",
+            "e4a47d9c-967f-4990-bfc0-301b32c0765e"
+        ]
+    },
+    {
+        "study_names": [
+            "AC ANTI-MUSCULO LISO",
+            "AC. ANTI MUSCULO LISO"
+        ],
+        "match_study_id": "4b6fc2e7-a372-4a08-84b0-07728ec7480b",
+        "Study_id": [
+            "fae72468-8fe7-49d3-a211-7f012a29624c",
+            "340a2a27-22d3-42dd-9702-b3d8791f429a"
+        ]
+    },
+    {
+        "study_names": [
+            "AC ANTI-MYCOPLASMA PNEUMONIAE IGG IGM",
+            "AC. ANTI MYCOPLASMA PNEUMONIAE IGM E IGG"
+        ],
+        "match_study_id": "4ab23866-bdd9-430d-bcdd-f333c7e390f3",
+        "Study_id": [
+            "6c329d0d-c9c7-4610-b9d2-2854e8b9e997",
+            "dfc7f001-c669-474f-9309-458e23c7b7f8"
+        ]
+    },
+    {
+        "study_names": [
+            "AC ANTI-NEISSERIA GONORRHOEAE",
+            "AC. ANTI NEISSERIA GONORRHEAE"
+        ],
+        "match_study_id": "0fb7242a-bccb-4455-9403-ee0b11fef8b9",
+        "Study_id": [
+            "6160d629-048f-4e25-ad91-9e8829cdbd92",
+            "0a69e7e6-afbb-4e8d-a3e0-39fd1ec26f4b"
+        ]
+    },
+    {
+        "study_names": [
+            "AC ANTI-NUCLEARES",
+            "AC. ANTI NUCLEARES "
+        ],
+        "match_study_id": "57e5f907-1e15-42f8-953a-4238a8c2a399",
+        "Study_id": [
+            "63283e7a-d3f5-4df9-8280-e22a967dd3dc",
+            "68848f07-7e34-4146-92eb-2faa6cb4eb13"
+        ]
+    },
+    {
+        "study_names": [
+            "AC ANTI-PARVOVIRUS B-19 IGG IGM",
+            "AC. ANTI PARVOVIRUS B19 IGG,  IGM ."
+        ],
+        "match_study_id": "5c3243e9-b54a-4b12-baba-f195e148c975",
+        "Study_id": [
+            "01bcc287-65ea-4ff8-9203-f3afb63f0ec7",
+            "1c232d02-0605-4432-98e2-4329017a4ebf"
+        ]
+    },
+    {
+        "study_names": [
+            "AC ANTI-PEPTIDO CICLICO CITRULINADO (CCP)",
+            "ANTICUERPOS ANTI PEPTIDO CICLICO CITRULINADO -CCP-"
+        ],
+        "match_study_id": "f0b12041-985e-4480-be8d-69517e67a775",
+        "Study_id": [
+            "47390ec9-da99-4d0d-b0b7-3c8317067bb4",
+            "2f821f02-ee07-4728-80f1-3d71cb8eb75d"
+        ]
+    },
+    {
+        "study_names": [
+            "AC ANTI-PEROXIDASA TIROIDEA",
+            "ANTICUERPOS ANTI PEROXIDASA TIROIDEA"
+        ],
+        "match_study_id": "6554f967-0e43-47c7-847c-5f3cd953fc98",
+        "Study_id": [
+            "4368d655-e162-43e6-ab69-83c2184ab018",
+            "64b94835-cb3b-4553-ab93-d292ebe7d688"
+        ]
+    },
+    {
+        "study_names": [
+            "AC ANTI-PLAQUETAS",
+            "AC. ANTI PLAQUETAS"
+        ],
+        "match_study_id": "d88a1f64-d13a-44b1-acc5-1c5d06ceb317",
+        "Study_id": [
+            "8c0a67de-b4d4-4495-b238-18a348e86874",
+            "360041a9-e2d9-489d-82eb-4ad1f926172a"
+        ]
+    },
+    {
+        "study_names": [
+            "AC ANTI-RECEPTOR DE TSH",
+            "AC. ANTI RECEPTOR DE TSH "
+        ],
+        "match_study_id": "ddc519a3-fe9c-4ddb-b4b7-d65e0fd8cb31",
+        "Study_id": [
+            "2fff6453-2ce1-4898-ac8c-0f18b4f35ad6",
+            "85024f36-8faf-4cf0-97d5-d6078530e33a"
+        ]
+    },
+    {
+        "study_names": [
+            "AC ANTI-RECEPTORES DE ACETILCOLINA",
+            "ANTICUERPOS ANTI RECEPTOR DE ACETIL COLINA"
+        ],
+        "match_study_id": "f5f3e76e-727f-43bd-ae32-428e235f5c64",
+        "Study_id": [
+            "02952c6c-33ef-43db-a421-c2cb0413e805",
+            "9370cd02-926f-44ac-9c26-0f74559369a8"
+        ]
+    },
+    {
+        "study_names": [
+            "AC ANTI-RICKETTSIA",
+            "AC. ANTI RICKETTSIA"
+        ],
+        "match_study_id": "7cf038c9-0cf5-4733-8957-14140908bb14",
+        "Study_id": [
+            "0de4d771-94f7-4949-95c8-849ca0caf424",
+            "221b911e-eb5c-4702-8f4c-cc1bba016482"
+        ]
+    },
+    {
+        "study_names": [
+            "AC ANTI-RUBEOLA IGG",
+            "AC. ANTI RUBEOLA IGG"
+        ],
+        "match_study_id": "0da0b52f-4328-40c5-910e-22dce1dfd416",
+        "Study_id": [
+            "ad3f8008-2978-49b1-b681-c6af9c1a2a18",
+            "9638a174-ae89-405b-b5cf-5645869ef147"
+        ]
+    },
+    {
+        "study_names": [
+            "AC ANTI-RUBEOLA IGM",
+            "AC. ANTI RUBEOLA IGM"
+        ],
+        "match_study_id": "c47a69f0-7db5-4bb7-bf63-fbc78f088f80",
+        "Study_id": [
+            "3d4636f6-ecd3-4276-aaaa-fefe255fc827",
+            "a32c6fab-e295-495f-b8d7-31731489ea24"
+        ]
+    },
+    {
+        "study_names": [
+            "AC ANTI-SALMONELLA",
+            "AC. ANTI SALMONELLA"
+        ],
+        "match_study_id": "c2c26b6a-72a5-41ca-8e3f-4f26cd8a34ab",
+        "Study_id": [
+            "9199c35f-81c7-4574-b7a6-3e86bb30e288",
+            "d80f4eb3-a0df-4966-8b7a-02a28794c3e6"
+        ]
+    },
+    {
+        "study_names": [
+            "AC ANTI-TIROGLOBULINA",
+            "AC. ANTI TIROGLOBULINA "
+        ],
+        "match_study_id": "a99e2851-9a78-4e19-88e4-788da31e4b25",
+        "Study_id": [
+            "e759ac41-2b27-4c5a-998b-42d19515013d",
+            "f1f0d7b0-2ce7-4336-b760-462ff34d9f70"
+        ]
+    },
+    {
+        "study_names": [
+            "AC ANTI-TIROIDEOS",
+            "AC. ANTI TIROIDEOS "
+        ],
+        "match_study_id": "9b0e6d1e-993c-4457-88a9-c2c8c058eb0a",
+        "Study_id": [
+            "a822f87d-7302-48fd-8c0e-af26a2d5938c",
+            "e14f2aae-cd01-4c97-9f84-3f2201bc03ea"
+        ]
+    },
+    {
+        "study_names": [
+            "AC ANTI-TOXOPLASMA IGM",
+            "ANTICUERPOS ANTI TOXOPLASMA IGM"
+        ],
+        "match_study_id": "a37637b6-54e7-48be-99c0-bb81caa3b63c",
+        "Study_id": [
+            "d07ba96b-cb94-4036-9c5c-ea4c231be4a9",
+            "93830fc5-6f79-43c8-ad23-1d10797b3365"
+        ]
+    },
+    {
+        "study_names": [
+            "AC ANTI-TRANSGLUTAMINASA IGG E IGA",
+            "AC. ANTI TRANSGLUTAMINASA IGG, IGA",
+            "ANTICUERPOS ANTI TRANSGLUTAMINASA IGG E IGA"
+        ],
+        "match_study_id": "00655466-77aa-445e-819e-08ee6be61264",
+        "Study_id": [
+            "d9a5e1df-c80c-455b-b617-6ca3b53e1fd5",
+            "497fbf98-0d73-4bfd-9df3-f1017187d120",
+            "d49733c9-185a-4146-a4f4-72607258743e"
+        ]
+    },
+    {
+        "study_names": [
+            "AC. ANTI-HERPES I IGG",
+            "AC. ANTI HERPES I  IGG"
+        ],
+        "match_study_id": "040933ed-b99a-42bd-9717-3a6aa1b5daac",
+        "Study_id": [
+            "ad674a8c-f85c-4d9f-b878-551e886dce9f",
+            "41576e9b-fb4d-46a8-bba6-90f65e98598b"
+        ]
+    },
+    {
+        "study_names": [
+            "AC. ANTI-HERPES I IGM",
+            "AC. ANTI HERPES I  IGM"
+        ],
+        "match_study_id": "940e13ba-0d7e-4e72-94be-63cbc05bbf1e",
+        "Study_id": [
+            "484746cf-dcf1-4db7-af63-599d080f7e31",
+            "ca422332-9592-4784-8f95-5e32bb0a3da8"
+        ]
+    },
+    {
+        "study_names": [
+            "AC. ANTI-HERPES II IGG",
+            "AC. ANTI HERPES II IGG"
+        ],
+        "match_study_id": "deb4b931-2de8-48c8-b31f-e43c27255ca6",
+        "Study_id": [
+            "08a28944-8145-4b5c-94c2-cce12618f7fc",
+            "8654420b-2c1e-499d-97ba-7863dbf0f582"
+        ]
+    },
+    {
+        "study_names": [
+            "AC. ANTI-HERPES II IGM",
+            "AC. ANTI HERPES II  IGM"
+        ],
+        "match_study_id": "46da029d-e35f-493b-b60f-4782894384d3",
+        "Study_id": [
+            "bcf9a3cd-5327-4455-8c24-36823022e1c8",
+            "bf7739bc-ca10-408e-8567-1be20e0e97bb"
+        ]
+    },
+    {
+        "study_names": [
+            "AC. ANTI-HISTOPLASMA CAPSULATUM",
+            "AC. ANTI HISTOPLASMA CAPSULATUM"
+        ],
+        "match_study_id": "56d8b34c-3e97-4ec7-9b37-2e325d6443bb",
+        "Study_id": [
+            "dc35ab27-805e-4a34-a94a-14c399ec2222",
+            "17ec8f59-af9d-41d6-8365-b87e083461d5"
+        ]
+    },
+    {
+        "study_names": [
+            "ACETAMINOFEN",
+            "ACETOMINOFEN"
+        ],
+        "match_study_id": "bb87b575-0cce-4001-b84a-e282601002a9",
+        "Study_id": [
+            "71723ac2-5c75-4702-9fd2-f2343b007362",
+            "dfb59065-9bef-4b7a-959a-685ada80b64e"
+        ]
+    },
+    {
+        "study_names": [
+            "ACIDO FOLICO",
+            "ACIDO FOLICO "
+        ],
+        "match_study_id": "2f7b560d-5b81-43a5-93b8-346361ec9b4a",
+        "Study_id": [
+            "304c5d44-3515-4f7f-8da4-6aacb384f092",
+            "a5bfabbc-f150-438f-880e-af488e5c0818"
+        ]
+    },
+    {
+        "study_names": [
+            "ACIDO HOMOVANILICO",
+            "ACIDO  HOMOVANILICO"
+        ],
+        "match_study_id": "6872cf78-ecdb-45f5-b661-28cb05a2aecb",
+        "Study_id": [
+            "34faa5eb-0f95-4149-8d33-05fa96204ab0",
+            "ea512069-acfc-4e41-980a-1a917286dd8f"
+        ]
+    },
+    {
+        "study_names": [
+            "ACIDO LACTICO",
+            "ACIDO LACTICO"
+        ],
+        "match_study_id": "da031cd4-3fb5-4608-88cc-32fbbb891c3a",
+        "Study_id": [
+            "cceb471b-ae1c-4765-be5c-28262e8d3a43",
+            "45d2ce7a-5294-4a2b-9ffc-3cb0c795fbab"
+        ]
+    },
+    {
+        "study_names": [
+            "ACIDO URICO",
+            "ACIDO URICO"
+        ],
+        "match_study_id": "f87e37fa-4d70-44a1-9941-7aa957d804c5",
+        "Study_id": [
+            "8b27b1d1-ee87-4297-bbac-c48fef893da2",
+            "88e7a5b7-0bf1-4b95-807c-a935ce616e21"
+        ]
+    },
+    {
+        "study_names": [
+            "ACIDO URICO EN ORINA DE 24 HRS",
+            "ACIDO URICO (ORINA DE 24 HRS)"
+        ],
+        "match_study_id": "c132cc98-7d20-4f6f-b36a-04c3d6667bc5",
+        "Study_id": [
+            "f55cad0a-687c-41d1-b6e8-0c2b9893f366",
+            "49d8f0d9-8c41-4437-b377-baa8a785f8e8"
+        ]
+    },
+    {
+        "study_names": [
+            "ACIDO VANILILMANDELICO",
+            "ACIDO VANIL MANDELICO "
+        ],
+        "match_study_id": "490294de-5ee5-4fb5-9844-96927df63660",
+        "Study_id": [
+            "96fa6476-0816-4f1e-9956-14eda9bf6dc5",
+            "2f835f26-dbdf-4b87-a3ca-e754c52ad185"
+        ]
+    },
+    {
+        "study_names": [
+            "ACIDOS GRASOS LIBRES EN SUERO",
+            "Ácidos Grasos Libres en suero"
+        ],
+        "match_study_id": "08d7d061-9e1f-4061-95d8-f4cf17582349",
+        "Study_id": [
+            "f3ef937a-5cae-4d76-905a-f397cd532eb4",
+            "8e67a191-3d9b-422c-b739-70ce1a1ef430"
+        ]
+    },
+    {
+        "study_names": [
+            "ACTIVIDAD DE RENINA PLASMATICA",
+            "ACTIVIDAD DE RENINA PLASMATICA"
+        ],
+        "match_study_id": "0a2ff646-366e-49e0-a00a-759b77171af1",
+        "Study_id": [
+            "86612dca-6693-4ba8-9d31-6282974f777e",
+            "31f9f455-256b-4fc2-989e-87d3ba0473de"
+        ]
+    },
+    {
+        "study_names": [
+            "ALBUMINA",
+            "ALBUMINA"
+        ],
+        "match_study_id": "3b832bd9-a055-4194-86bd-b6d5701628d5",
+        "Study_id": [
+            "d9332203-89ba-4afa-924e-7d448147567c",
+            "38d654ab-1b0d-426b-9c72-33e651b6a5e6"
+        ]
+    },
+    {
+        "study_names": [
+            "ALCOHOL ETILICO EN ORINA",
+            "ALCOHOL ETILICO EN ORINA"
+        ],
+        "match_study_id": "a6f9e9a2-833d-4f1e-a27a-b3e7f3f487ca",
+        "Study_id": [
+            "db37be7e-4b91-49e8-a155-fa0601ff35a6",
+            "1757eac6-3582-46e4-95d7-01ac8210fa09"
+        ]
+    },
+    {
+        "study_names": [
+            "ALDOLASA",
+            "ALDOLASA"
+        ],
+        "match_study_id": "d3a63249-1d46-4cf7-8b9c-d741cc72364e",
+        "Study_id": [
+            "8cf4bbd6-e06a-417d-944a-2dc9128b86db",
+            "1eb35b6e-cf57-4dcc-8325-36bc8e2da931"
+        ]
+    },
+    {
+        "study_names": [
+            "ALDOSTERONA EN ORINA",
+            "ALDOSTERONA  EN ORINA"
+        ],
+        "match_study_id": "a9ed45df-d82a-4bb7-b0f6-42de1ea23964",
+        "Study_id": [
+            "2233637f-1e7d-4d38-84b5-e127f8b971fa",
+            "aa4424f2-d6f8-465f-aac3-59455cfe3066"
+        ]
+    },
+    {
+        "study_names": [
+            "ALDOSTERONA EN SUERO",
+            "ALDOSTERONA  EN SUERO"
+        ],
+        "match_study_id": "0b3c8023-be2f-4e08-b58e-304bb59224eb",
+        "Study_id": [
+            "30e75668-f80c-4a2a-a1b0-6bcaf0d2ea5b",
+            "708e8cf3-b6a4-436f-88a5-1114102b0080"
+        ]
+    },
+    {
+        "study_names": [
+            "ALFA 1 ANTITRIPSINA",
+            "ALFA 1 ANTI-TRIPSINA "
+        ],
+        "match_study_id": "22fa0c79-a294-4268-93c6-3374c0f14b80",
+        "Study_id": [
+            "e9f63501-5b65-4e6f-abbc-e5b041bb79a9",
+            "ecb41c0c-27de-4d0c-a974-3bb7a7351f26"
+        ]
+    },
+    {
+        "study_names": [
+            "AMILASA",
+            "Amilasa"
+        ],
+        "match_study_id": "0da63dad-78f3-4611-8351-3593b28c6b6a",
+        "Study_id": [
+            "136fc0b0-2306-49b0-99e7-3f4f0f4e9d76",
+            "38b57ad7-9feb-46a3-b4c6-981a6f9503e0"
+        ]
+    },
+    {
+        "study_names": [
+            "AMILASA EN ORINA DE 24 HRS",
+            "AMILASA EN ORINA DE 24 HORAS"
+        ],
+        "match_study_id": "809206c3-40b4-41cd-a2ea-f0fc88fc1e15",
+        "Study_id": [
+            "c6c434c5-6e34-4cae-a56a-2886122866df",
+            "5093460c-8c55-4b45-88c0-0d76a63a28c2"
+        ]
+    },
+    {
+        "study_names": [
+            "AMITRIPTILINA",
+            "AMITRIPTILINA "
+        ],
+        "match_study_id": "8c71052c-e960-4ce0-9fc3-958b3a6fffc1",
+        "Study_id": [
+            "8483f6ff-5ea0-4211-b708-41a705b0ee07",
+            "e5915d2c-b613-446f-9df8-dcd56fd7dc80"
+        ]
+    },
+    {
+        "study_names": [
+            "ANDROSTENEDIONA",
+            "ANDROSTENEDIONA"
+        ],
+        "match_study_id": "9a4dc808-ebee-443e-b49b-9b11d648c3ba",
+        "Study_id": [
+            "b769232a-6b0a-4632-b545-f2c35e1fa475",
+            "9f39f8ca-a109-4791-867e-8299909d20de"
+        ]
+    },
+    {
+        "study_names": [
+            "ANGIOTENSINA II",
+            "ANGIOTENSINA II"
+        ],
+        "match_study_id": "8765485c-e603-40af-8175-ea82f47c6705",
+        "Study_id": [
+            "e1117e94-8fb4-43ab-8c9c-64022ef13527",
+            "d3d3c016-a060-4784-b54e-62cf5228f6d3"
+        ]
+    },
+    {
+        "study_names": [
+            "ANTICOAGULANTE LUPICO",
+            "ANTICOAGULANTE LUPICO"
+        ],
+        "match_study_id": "9c69d8a9-ef82-47c4-a3ae-6552ed42791e",
+        "Study_id": [
+            "0b049ef6-97e6-43cf-9006-9c869f52f5d1",
+            "9c432329-6d82-4878-89e9-9ae0a58ebb58"
+        ]
+    },
+    {
+        "study_names": [
+            "ANTIESTREPTOLISINAS",
+            "Antiestreptolisinas"
+        ],
+        "match_study_id": "e0ba4298-60a7-49e7-b874-5f31d95fcaa1",
+        "Study_id": [
+            "85924e7a-970c-4d96-8a63-3ba68c24a950",
+            "f733b1e7-739d-400d-81e5-d11273412a8b"
+        ]
+    },
+    {
+        "study_names": [
+            "APOLIPOPROTEINAS A1 Y B",
+            "APOLIPOPROTEINAS A1 Y B"
+        ],
+        "match_study_id": "75677c59-cc79-4d79-a290-3024df84233b",
+        "Study_id": [
+            "a6cb2de1-1d5f-4211-87b8-f36d6cf9f2b5",
+            "a1055962-7d33-40c4-9058-184245a3fee0"
+        ]
+    },
+    {
+        "study_names": [
+            "ARIL SULFATASA",
+            "ARIL SULFATASA"
+        ],
+        "match_study_id": "80019346-ada2-438b-91b2-78388f5e6706",
+        "Study_id": [
+            "a83b80ef-bf89-4f7a-8eec-b7af2ea6c758",
+            "d37eba8e-3b34-46f3-8dd5-35980c47241d"
+        ]
+    },
+    {
+        "study_names": [
+            "BACILOSCOPIA EN HECES",
+            "Baciloscopía de Heces"
+        ],
+        "match_study_id": "d99be5a6-c794-4b3b-bcc1-dd8890f885bb",
+        "Study_id": [
+            "2f15beac-fbb9-4840-bb88-47eab17358d9",
+            "fccb2945-3fb4-4ffc-b560-b2ad4cc472e3"
+        ]
+    },
+    {
+        "study_names": [
+            "BANDAS OLIGOCLONALES EN LCR",
+            "BANDAS OLIGOCLONALES EN L.C.R."
+        ],
+        "match_study_id": "4d9ac5bc-3d96-4baa-9c0a-7123068687ba",
+        "Study_id": [
+            "04ecbb57-ffeb-40d2-8087-4b8918450648",
+            "be9fe5fd-8d76-4fa9-b8dc-f2d83896e947"
+        ]
+    },
+    {
+        "study_names": [
+            "BARBITURICOS EN ORINA",
+            "BARBITURICOS EN ORINA"
+        ],
+        "match_study_id": "2f0a8d6a-6eb4-472a-bc11-a9dd2bc45c22",
+        "Study_id": [
+            "7f4d3154-6dfa-4756-b86f-8aed1837418a",
+            "906bbcee-05f2-4958-8aa7-1ce8c2b35e19"
+        ]
+    },
+    {
+        "study_names": [
+            "BENCENO EN SANGRE",
+            "BENCENO EN SANGRE"
+        ],
+        "match_study_id": "1c9a61c4-d3f6-4104-b3b9-7e23049efc4f",
+        "Study_id": [
+            "7cdce090-5205-4197-b446-e68d30821030",
+            "89d0564b-aac7-4878-af34-c9896a05c800"
+        ]
+    },
+    {
+        "study_names": [
+            "BETA 2 MICROGLOBULINA",
+            "BETA 2 MICROGLOBULINA "
+        ],
+        "match_study_id": "3b99fe3b-b70d-4ffe-9985-538bf16ea114",
+        "Study_id": [
+            "2bc39b38-3d46-49a1-833d-05f8621580e3",
+            "93b6a162-9409-46e5-be7c-2fbfd9bee30b"
+        ]
+    },
+    {
+        "study_names": [
+            "BIOMETRIA HEMATICA",
+            "BIOMETRIA HEMATICA "
+        ],
+        "match_study_id": "56d9878f-cd6e-4dd0-ac56-86b8b54cabe4",
+        "Study_id": [
+            "82211fbd-8c6b-481f-9a9d-b22be423365d",
+            "c8ada084-cc64-436d-a349-0c4fb43dbeaa"
+        ]
+    },
+    {
+        "study_names": [
+            "C-TELOPEPTIDOS",
+            "C- TELOPEPTIDO"
+        ],
+        "match_study_id": "6a8d0098-9453-400b-aaa3-0f658c82e60a",
+        "Study_id": [
+            "58d50318-cff1-496e-b9f5-017cb497cada",
+            "178d322e-f2bd-4f32-815f-8a495a443ec7"
+        ]
+    },
+    {
+        "study_names": [
+            "CA 19-9",
+            "CA 19-9"
+        ],
+        "match_study_id": "bdf8e78d-0f7e-4971-98c0-1518c14c00fd",
+        "Study_id": [
+            "a27a1e5d-24b5-4aaf-aab8-01ca84bcb332",
+            "d46ba040-8cf1-4d70-a7c8-b837aaaa8079"
+        ]
+    },
+    {
+        "study_names": [
+            "CA 72-4",
+            "CA 72-4"
+        ],
+        "match_study_id": "761924f9-9e01-47f5-ac04-4dc982ed1c38",
+        "Study_id": [
+            "61a905b0-9a63-41ab-a4e6-284186482fe7",
+            "5889fe15-6916-49f6-bda2-b54615dfd663"
+        ]
+    },
+    {
+        "study_names": [
+            "CADMIO",
+            "CADMIO"
+        ],
+        "match_study_id": "4dc50c0a-56de-42ea-896e-503e57470a5b",
+        "Study_id": [
+            "f728cbe9-5eb7-48c8-aa3f-d46c00484408",
+            "fe2cf596-b7e9-46e1-a898-e294ff62f593"
+        ]
+    },
+    {
+        "study_names": [
+            "CALCIO",
+            "Calcio"
+        ],
+        "match_study_id": "2440d499-ef9d-430d-aa14-950871e113d1",
+        "Study_id": [
+            "e71ac347-ebfe-4352-a48c-322295199a2b",
+            "2bf592d6-2617-4144-be35-e3a3fc58c2da"
+        ]
+    },
+    {
+        "study_names": [
+            "CALCIO EN ORINA DE 24 HRS.",
+            "CALCIO EN ORINA DE 24 HORAS"
+        ],
+        "match_study_id": "2c54246f-250c-44af-9d4a-9fcc3dce8925",
+        "Study_id": [
+            "e231e866-dc9b-4b73-b204-4510bbad21fb",
+            "e83b9fe6-f39a-4c3b-9383-fcc20420772b"
+        ]
+    },
+    {
+        "study_names": [
+            "CALCIO IONICO",
+            "CALCIO IONICO"
+        ],
+        "match_study_id": "2e72f4d1-5929-4979-ab5b-ed452a8e4254",
+        "Study_id": [
+            "300d0b33-bc6e-4c96-a370-782f311c066c",
+            "9f5308e2-08c8-4e30-a48e-21a3f40a2718"
+        ]
+    },
+    {
+        "study_names": [
+            "CALCITONINA",
+            "CALCITONINA "
+        ],
+        "match_study_id": "cf750fce-b116-46d0-9074-c9263d8bddd7",
+        "Study_id": [
+            "5a73f9f0-8d58-4238-ab17-79a7449a534a",
+            "4089efd6-f105-489e-95e6-3b7a147f2c45"
+        ]
+    },
+    {
+        "study_names": [
+            "CARBOXIHEMOGLOBINA",
+            "CARBOXIHEMOGLOBINA"
+        ],
+        "match_study_id": "413a4c16-bbd2-444a-bae5-28c8435249c0",
+        "Study_id": [
+            "29773910-4e12-40a3-9046-2fedfe3e6f6a",
+            "cd9f4e83-2ea0-4013-9bd0-f70fcf5ec6d6"
+        ]
+    },
+    {
+        "study_names": [
+            "CARIOTIPO EN MEDULA OSEA",
+            "CARIOTIPO EN MEDULA OSEA"
+        ],
+        "match_study_id": "2aaa6481-e208-4de2-8166-42536e011910",
+        "Study_id": [
+            "8ea0a1aa-7b22-4f74-908c-6dd15dba6cc7",
+            "c65ba4e2-1d2c-4cf0-a371-9069116b80f0"
+        ]
+    },
+    {
+        "study_names": [
+            "CAROTENOS",
+            "CAROTENOS"
+        ],
+        "match_study_id": "0fbfc9c1-4ce2-4262-aff4-f5aa35b0ccf5",
+        "Study_id": [
+            "bd6b47b0-af06-4cb5-bfe7-cfcc37b154d8",
+            "739a4d2d-ac64-45d8-a128-33e74679e5f0"
+        ]
+    },
+    {
+        "study_names": [
+            "CELULAS LE",
+            "CELULAS LE"
+        ],
+        "match_study_id": "d4efaa5f-2583-4e34-aae4-d00148bbddee",
+        "Study_id": [
+            "c1bd63bc-3d7a-466c-b883-9418939b2a1c",
+            "256d2b34-b6e9-4af9-9098-4844b565d017"
+        ]
+    },
+    {
+        "study_names": [
+            "CELULAS NK",
+            "CELULAS NK"
+        ],
+        "match_study_id": "a3d51b48-2116-4caf-bb1b-4e6f12e691c8",
+        "Study_id": [
+            "c0979dba-2af2-47b1-8dc7-7fac1bb38608",
+            "039a39df-5503-4191-82f4-d6b231ef7963"
+        ]
+    },
+    {
+        "study_names": [
+            "CICLOSPORINA",
+            "CICLOSPORINA"
+        ],
+        "match_study_id": "4008fe53-92e3-4850-bf80-03bffd16b003",
+        "Study_id": [
+            "340c8d67-9b21-4d9c-87e9-3ed4afda7b97",
+            "6640b99b-12eb-4021-adca-612f2521e23a"
+        ]
+    },
+    {
+        "study_names": [
+            "CISTATINA-C",
+            "CISTATINA C"
+        ],
+        "match_study_id": "c2e9880e-a695-458e-ba29-7556c8095763",
+        "Study_id": [
+            "5b261061-67b4-40b7-9ea1-a2b32080856e",
+            "4f020d66-d17b-477a-b038-4f0d40f9e270"
+        ]
+    },
+    {
+        "study_names": [
+            "CISTINA EN ORINA DE 24 HRS",
+            "CISTINA EN ORINA DE 24H"
+        ],
+        "match_study_id": "49545df2-d202-4f51-bcc7-f32a6b224981",
+        "Study_id": [
+            "8732790c-d3bb-4425-a048-8a6c18a643d6",
+            "714dbc75-1ee9-45fe-aa4e-e68d9e0c2c63"
+        ]
+    },
+    {
+        "study_names": [
+            "CITOLOGIA URETRAL",
+            "CITOLOGIA URETRAL"
+        ],
+        "match_study_id": "0d471499-4b6d-4c30-b0b2-0947c61752cc",
+        "Study_id": [
+            "9d4714eb-51b7-45c4-9d34-6f89908c7df2",
+            "91fdc370-ebc6-412a-9578-bc62671c37b0"
+        ]
+    },
+    {
+        "study_names": [
+            "CITRATO EN ORINA DE 24 HRS",
+            "CITRATO, ORINA DE 24 HRS."
+        ],
+        "match_study_id": "03c39d78-c53d-49e4-a0f1-81cc710468ab",
+        "Study_id": [
+            "d2745a68-9103-40a0-8523-9398472d06b9",
+            "5550358c-fe93-47e4-a1a3-3c8be9c5717a"
+        ]
+    },
+    {
+        "study_names": [
+            "CLOBAZAM",
+            "CLOBAZAM"
+        ],
+        "match_study_id": "6ebea44a-1559-4cae-987e-8924d5bfdda5",
+        "Study_id": [
+            "5e0e3915-2507-44b4-8ffb-beb58dd897ec",
+            "ad04f5af-fd1f-484e-b05d-501fc3588050"
+        ]
+    },
+    {
+        "study_names": [
+            "CLONAZEPAM",
+            "CLONAZEPAM"
+        ],
+        "match_study_id": "88a27cf4-3aa2-422d-acfa-dbcffc2aebd8",
+        "Study_id": [
+            "628243ab-6439-4dce-8e8c-b5cb3a07775a",
+            "943c74fe-a98b-4df9-9808-429e7d2892c1"
+        ]
+    },
+    {
+        "study_names": [
+            "CLORO",
+            "CLORO"
+        ],
+        "match_study_id": "f74691ae-f751-435c-aaec-68e65426ef87",
+        "Study_id": [
+            "20a5d367-f109-47a4-bed6-d4f4ed13e9de",
+            "b681c06f-cb69-4b19-955d-4091391742bf"
+        ]
+    },
+    {
+        "study_names": [
+            "CLORO EN ORINA 24 HRS.",
+            "COBRE EN ORINA 24 HRS",
+            "CLORO EN ORINA 24 HRS"
+        ],
+        "match_study_id": "5ee455bd-4286-431e-b1dc-892df59f4ef9",
+        "Study_id": [
+            "f3858c81-5f02-49b4-b45a-1f5b9cad6eef",
+            "24374f3d-790a-45a2-b9c2-75372507d770",
+            "c7d8a97f-c64a-40fc-9e7c-f6dc966e666e"
+        ]
+    },
+    {
+        "study_names": [
+            "COBALTO EN SANGRE",
+            "COBALTO EN SANGRE"
+        ],
+        "match_study_id": "eb07be35-1db4-41c1-9c96-28af6ff17920",
+        "Study_id": [
+            "b06b61cd-1a17-4358-8bc0-196af9e7105d",
+            "8dde00bb-1a1b-43be-9a46-75a9cf11033f"
+        ]
+    },
+    {
+        "study_names": [
+            "COLESTEROL TOTAL",
+            "COLESTEROL TOTAL"
+        ],
+        "match_study_id": "9dfb0fe4-8b47-4e48-ac42-92b558b73f8e",
+        "Study_id": [
+            "e69a7741-99a5-431e-9df6-78d763a15a23",
+            "3c3356ac-926a-41b1-82bb-75d1e8c9ddce"
+        ]
+    },
+    {
+        "study_names": [
+            "COLINESTERASA",
+            "Colinesterasa"
+        ],
+        "match_study_id": "c77ae362-93b3-4112-a436-bb51aaf72b50",
+        "Study_id": [
+            "f29e6645-3169-4eaf-9b64-5e7c99c08c81",
+            "63efa6ee-2254-4056-b981-07e9509ad665"
+        ]
+    },
+    {
+        "study_names": [
+            "COMPLEJOS INMUNES CIRCULANTES",
+            "COMPLEJOS INMUNES CIRCULANTES"
+        ],
+        "match_study_id": "1a0ba5e0-82e6-479d-ad03-7835e74026b1",
+        "Study_id": [
+            "f8d010be-5b14-4172-b7de-d8629f186359",
+            "91b24ca4-c20d-47b5-83a9-43f00a89d9a0"
+        ]
+    },
+    {
+        "study_names": [
+            "COMPLEMENTO (FRACCION C2)",
+            "COMPLEMENTO FRACCION C2"
+        ],
+        "match_study_id": "6305c8c9-b875-4f73-b632-336c977add0e",
+        "Study_id": [
+            "17acb972-9c78-43bf-ad76-27fd0f391307",
+            "f73ee168-99ac-465a-80a5-bab5cbf94116"
+        ]
+    },
+    {
+        "study_names": [
+            "COMPLEMENTO HEMOLITICO CH50",
+            "COMPLEMENTO HEMOLITICO CH50"
+        ],
+        "match_study_id": "2ac3dba4-b476-4526-bb6e-392c368625b6",
+        "Study_id": [
+            "0f91bd7d-00ca-4f0b-8aeb-021d4da1434e",
+            "c5e93bbf-faf0-4fa2-ad0f-e2c6f1c15862"
+        ]
+    },
+    {
+        "study_names": [
+            "COOMBS DIRECTO",
+            "COOMBS DIRECTO"
+        ],
+        "match_study_id": "97900d55-ce9d-43cb-9852-a17b2bf8a488",
+        "Study_id": [
+            "be6f1541-468d-4d34-8e3e-5fd68e228322",
+            "f797a421-025f-4735-8465-c1a5bae559f3"
+        ]
+    },
+    {
+        "study_names": [
+            "COOMBS INDIRECTO",
+            "COOMBS INDIRECTO",
+            "Coombs Indirecto"
+        ],
+        "match_study_id": "080df28e-7c6e-4383-92a8-3fbd54d2a851",
+        "Study_id": [
+            "8bc5e701-b8a3-40ac-bc37-a198527f5d6b",
+            "4d74e942-da6e-41aa-a9b4-9fa704171ecb",
+            "9af3f0aa-bc07-40db-a089-02e4c40bd0a3"
+        ]
+    },
+    {
+        "study_names": [
+            "COPROPARASITOSCOPICO 1 MUESTRA",
+            "COPROPARASITOSCOPICO (1 MUESTRA)"
+        ],
+        "match_study_id": "6cb3b8a0-e462-4cf4-84eb-d1a995afa88b",
+        "Study_id": [
+            "7c0f6606-31d8-48ca-ba56-3f0da30f62d0",
+            "0cb14e0c-e1d3-4022-bb10-8bac61679ca5"
+        ]
+    },
+    {
+        "study_names": [
+            "COPROPARASITOSCOPICO 2 MUESTRAS",
+            "COPROPARASITOSCOPICO ( 2 MUESTRAS )"
+        ],
+        "match_study_id": "2fb1f990-f02b-4d12-bd51-02301d2108e2",
+        "Study_id": [
+            "4f78ecff-998d-4fc0-83e5-041f4bb4d909",
+            "f06374e1-326d-45f4-bea7-f7a1b17c51be"
+        ]
+    },
+    {
+        "study_names": [
+            "COPROPARASITOSCOPICO 3 MUESTRAS",
+            "COPROPARASITOSCOPICO (3 MUESTRAS)"
+        ],
+        "match_study_id": "e85aa18f-2e1b-4342-b0a3-3307f60bd87e",
+        "Study_id": [
+            "2f6ecee1-3459-4800-88ad-694da34ec237",
+            "61072b4d-d65f-45d9-b4e3-7e2be58dbbe2"
+        ]
+    },
+    {
+        "study_names": [
+            "CORTISONA EN ORINA",
+            "CORTISOL EN ORINA"
+        ],
+        "match_study_id": "fdce1d9c-921f-49ae-a849-54d9259012df",
+        "Study_id": [
+            "6aef180c-d42e-4b28-abef-59b864e64788",
+            "a3d62a2f-384c-4906-b078-8642e0fecaa4"
+        ]
+    },
+    {
+        "study_names": [
+            "CREATININA",
+            "CREATININA"
+        ],
+        "match_study_id": "465fb162-78bf-440f-b6e7-7018b511abac",
+        "Study_id": [
+            "aa2a2af8-263f-4f3d-b2c0-ab8193782c13",
+            "149a77e9-773c-45cb-9b0e-1d4719961fdc"
+        ]
+    },
+    {
+        "study_names": [
+            "CREATININA EN ORINA DE 24HR",
+            "CREATININA EN ORINA DE 24 HORAS",
+            "CREATININA EN ORINA 24 HRS"
+        ],
+        "match_study_id": "895eb725-b308-430b-a1ac-5bc750431bdd",
+        "Study_id": [
+            "7cd90a58-dac3-4e62-bf19-ee5ee1787d12",
+            "b662ac3b-b21f-4d52-a14e-1b2353910d5f",
+            "13974f58-8fb0-4fa9-9ca5-29bf25f538de"
+        ]
+    },
+    {
+        "study_names": [
+            "CROMO",
+            "CROMO"
+        ],
+        "match_study_id": "6f972533-3dd3-4f59-a298-93a353fa218e",
+        "Study_id": [
+            "7dfb9682-0495-4bbc-a2bf-26c493425a36",
+            "86b3a487-48dc-4e40-a6ba-aa7643e16099"
+        ]
+    },
+    {
+        "study_names": [
+            "CROMOGRANINA A",
+            "CROMOGRANINA A"
+        ],
+        "match_study_id": "31839729-4d85-4928-8926-df6365527aee",
+        "Study_id": [
+            "0e096e94-4442-4380-b5a8-e0f76aab2850",
+            "e9d45903-c5f9-470e-8f66-3606d1e47667"
+        ]
+    },
+    {
+        "study_names": [
+            "CULTIVO DE ESPERMA (ESPERMOCULTIVO)",
+            "ESPERMOCULTIVO",
+            "Espermocultivo"
+        ],
+        "match_study_id": "13e45548-66ca-4ba4-b674-017c6af76f49",
+        "Study_id": [
+            "7caa3a38-c467-4c67-ae76-3afb3bc42581",
+            "7c782c86-69ad-4d32-be47-d88c21ee7851",
+            "3047c3c1-1895-4510-b122-b5865fee94e2"
+        ]
+    },
+    {
+        "study_names": [
+            "CULTIVO DE EXUDADO FARINGEO",
+            "CULTIVO DE EXUDADO FARINGEO",
+            "Cultivo de Exudado Farígeo"
+        ],
+        "match_study_id": "65055242-e925-45e0-a5c7-2cc680bb54f8",
+        "Study_id": [
+            "c2c063fe-e6fb-489a-83bf-0a2bf6c73509",
+            "1a8be67b-e452-49f6-a9b1-e2cc90285693",
+            "5b6de344-01f9-4a40-978a-0ba059142e9b"
+        ]
+    },
+    {
+        "study_names": [
+            "CULTIVO DE EXUDADO NASAL",
+            "CULTIVO DE EXUDADO NASAL"
+        ],
+        "match_study_id": "a70daa26-18f7-4d3e-b181-f566f4f870e6",
+        "Study_id": [
+            "5878697c-a54b-44c4-bc23-c733f763e912",
+            "0b157ebc-f815-4997-a4b8-d1b4509d1503"
+        ]
+    },
+    {
+        "study_names": [
+            "CULTIVO DE EXUDADO URETRAL",
+            "CULTIVO DE EXUDADO URETRAL"
+        ],
+        "match_study_id": "1367579e-6bb6-4d73-93b5-0ef6fe659639",
+        "Study_id": [
+            "34abfc4d-0d30-4e71-bc1b-39ad6f4db31a",
+            "6207d456-a91e-4b7f-831a-097cfb71128d"
+        ]
+    },
+    {
+        "study_names": [
+            "CULTIVO DE EXUDADO VULVAR",
+            "CULTIVO DE EXUDADO VULVAR"
+        ],
+        "match_study_id": "c39b1f34-5902-447c-9a15-15535fde420e",
+        "Study_id": [
+            "6ca725a9-264e-48b3-b8d2-92b1944027e9",
+            "754d3186-8a42-413a-ad8f-e7954ad47129"
+        ]
+    },
+    {
+        "study_names": [
+            "CULTIVO DE HECES (COPROCULTIVO)",
+            "COPROCULTIVO"
+        ],
+        "match_study_id": "522279d9-d9cc-47df-8c03-ee410a09176e",
+        "Study_id": [
+            "81fa2ccd-19d5-420a-ac87-2cc702e3a49a",
+            "7bcd17c3-36b9-4b45-8e6b-7401f7f74e95"
+        ]
+    },
+    {
+        "study_names": [
+            "CULTIVO DE HONGOS",
+            "CULTIVO DE HONGOS"
+        ],
+        "match_study_id": "01159100-b754-4661-80dd-919333b68902",
+        "Study_id": [
+            "ef4db400-98a7-4063-85b5-3c81daf052f2",
+            "f7308ab8-e421-4002-a575-47839375bf44"
+        ]
+    },
+    {
+        "study_names": [
+            "CULTIVO DE LIQUIDO CEFALORRAQUIDEO",
+            "CULTIVO DE LIQUIDO CEFALORRAQUIDEO",
+            "Cultivo de Líquido Cefalorraquídeo",
+            "CULTIVO DE LIQUIDO CEFALORRAQUIDEO"
+        ],
+        "match_study_id": "7ca13087-a465-4d87-9b55-a05aaa316040",
+        "Study_id": [
+            "819fa067-fb66-4e8f-941e-75cf3e508441",
+            "00d59c85-3a22-49ce-826b-0f6a3354ee30",
+            "3fc7e25a-5060-4ff9-a7cd-6a05288b6348",
+            "79d6ca46-bd94-4535-9f29-68e9ea43ca67"
+        ]
+    },
+    {
+        "study_names": [
+            "CULTIVO DE MYCOBACTERIUM",
+            "Cultivo de Mycobacterium"
+        ],
+        "match_study_id": "a3784380-9eda-4b88-9bd6-9b75b817f361",
+        "Study_id": [
+            "2fc2dd60-5d12-4765-bb41-2dacf9e013d9",
+            "acf357df-6fa7-40f8-a513-09ad6e85c198"
+        ]
+    },
+    {
+        "study_names": [
+            "CULTIVO DE ORINA (UROCULTIVO)",
+            "UROCULTIVO"
+        ],
+        "match_study_id": "cc071adc-477b-4f24-a711-9ae3a3701dbe",
+        "Study_id": [
+            "c51707c0-c2fd-408a-ab52-d425aac59b32",
+            "141ba0c4-87dc-444d-b32f-08412a82348b"
+        ]
+    },
+    {
+        "study_names": [
+            "CURVA DE TOLERANCIA A LA GLUCOSA 2 HORAS",
+            "CURVA DE TOLERANCIA A LA GLUCOSA DE 2 HORAS"
+        ],
+        "match_study_id": "bf4735af-da51-43df-9d36-b041f013747a",
+        "Study_id": [
+            "4eff5358-2484-46bd-b054-de10be32f988",
+            "3ed471ab-2381-41e7-8bb2-f58f352e9849"
+        ]
+    },
+    {
+        "study_names": [
+            "CURVA DE TOLERANCIA A LA GLUCOSA 3 HORAS",
+            "CURVA DE TOLERANCIA A LA GLUCOSA DE 3 HORAS"
+        ],
+        "match_study_id": "e923626b-a819-4e1e-ae74-c525810ef8e2",
+        "Study_id": [
+            "61bd6938-2e1a-46fa-acc2-ace52c9b34cc",
+            "f39c912d-19f8-477b-9395-6bb59027084b"
+        ]
+    },
+    {
+        "study_names": [
+            "CURVA DE TOLERANCIA A LA GLUCOSA 4 HORAS",
+            "CURVA DE TOLERANCIA A LA GLUCOSA DE 4 HORAS"
+        ],
+        "match_study_id": "54f613a8-70cc-462b-b63f-ef6a6a4969cc",
+        "Study_id": [
+            "f7cbbb2e-5b1d-4fbe-86b5-b21ed1e05404",
+            "5825fff5-bf92-4ae6-8cae-d63f3b2b46ce"
+        ]
+    },
+    {
+        "study_names": [
+            "CURVA DE TOLERANCIA A LA GLUCOSA 5 HORAS",
+            "CURVA DE TOLERANCIA A LA GLUCOSA DE 5 HORAS"
+        ],
+        "match_study_id": "f91cdb55-c485-4595-95e9-676908410dee",
+        "Study_id": [
+            "84219569-0bb2-44b8-8eec-77aa196e1fb4",
+            "402b952e-8a4b-47be-959d-172014e949a4"
+        ]
+    },
+    {
+        "study_names": [
+            "DEHIDROEPIANDROSTERONA (DHEA)",
+            "DEHIDROEPIANDROSTERONA  (DHEA)"
+        ],
+        "match_study_id": "7844147f-20b8-4f44-87bf-7db27fcb9805",
+        "Study_id": [
+            "a2e446b2-b0a8-43b2-a744-65d045bd5ed9",
+            "4543f38c-bd4d-4690-b93c-f267f340ee8a"
+        ]
+    },
+    {
+        "study_names": [
+            "DEPURACION DE CREATININA EN ORINA DE 24 HORAS",
+            "Depuración de Creatinina en Orina de 24 hrs."
+        ],
+        "match_study_id": "68513ff7-7b69-46fb-8d21-3d84e355221c",
+        "Study_id": [
+            "347092b8-38f9-440c-9399-e0f491bab08b",
+            "027849c9-def4-4f56-a08c-7225d9f267db"
+        ]
+    },
+    {
+        "study_names": [
+            "ULTRASONIDO TRANSFONTANELAR",
+            "ULTRASONIDO TRANSFONTANELAR"
+        ],
+        "match_study_id": "89a9f1f2-157d-431a-b946-b1882bfd7c2b",
+        "Study_id": [
+            "0ceabc42-05f9-47ec-8ef7-987653221e83",
+            "4b9771a5-db68-402d-8da8-9be59e16bc91"
+        ]
+    },
+    {
+        "study_names": [
+            "GLYCOMARK",
+            "GLYCOMARK"
+        ],
+        "match_study_id": "5a9ef3e5-574f-4ca8-82ec-ae9ca4cf9aaa",
+        "Study_id": [
+            "c1af5118-3aca-4e6e-8a7c-5a2984ef3049",
+            "45a4d671-0301-44c3-8563-65c35a3e5bdc"
+        ]
+    },
+    {
+        "study_names": [
+            "MANO AP -LATERAL Y OBLICUA",
+            "RX MANO  AP , LATERAL Y OBLICUA"
+        ],
+        "match_study_id": "54b8e12e-705b-433c-bfb4-debed493e675",
+        "Study_id": [
+            "343eb6e3-ed01-45d6-a1c7-7a0a65f1fbc5",
+            "569f21c5-1802-495d-afeb-a928e0be1d8d"
+        ]
+    },
+    {
+        "study_names": [
+            "COLUMNA SACROCOXIGEA AP Y LATERAL",
+            "RAYOS X COL SACROCOXIGEA AP Y LATERAL-2"
+        ],
+        "match_study_id": "2916b402-95d3-4114-a2e5-b36cc525500f",
+        "Study_id": [
+            "38f49e2a-7683-4068-b62e-4f8aa8d14000",
+            "0a7b2be2-0fec-4149-8c64-fe1704574e35"
+        ]
+    },
+    {
+        "study_names": [
+            "CHLAMYDIA TRACHOMATIS, PCR",
+            "CHLAMYDIA TRACHOMATIS PCR"
+        ],
+        "match_study_id": "e534116d-c281-4f41-8297-dd4987f68236",
+        "Study_id": [
+            "a32d094d-a08a-4a0c-b290-0aa578578daa",
+            "42cd1c81-20ca-445b-977a-d7484c602d69"
+        ]
+    },
+    {
+        "study_names": [
+            "DEHIDROTESTOSTERONA",
+            "DIHIDROTESTOSTERONA"
+        ],
+        "match_study_id": "87e3d3f8-1188-4e86-8f76-5f0be67d627c",
+        "Study_id": [
+            "d9451ca0-4a0d-4c38-ab47-a870ceb95dd5",
+            "f89b2e64-8ecf-4421-8116-5f9b1fabffa0"
+        ]
+    },
+    {
+        "study_names": [
+            "FOSFATASA ALCALINA FRACCION OSEA",
+            "FOSFATASA ALCALINA FRACCION OSEA"
+        ],
+        "match_study_id": "68dbc174-ac3d-4075-b1aa-2287b1127cf7",
+        "Study_id": [
+            "3ea3181e-6825-4902-a22e-d7f2c568be54",
+            "e98d2c14-6b9b-419f-9314-ddc0cd2286ff"
+        ]
+    },
+    {
+        "study_names": [
+            "FRUCTOSAMINA",
+            "FRUCTOSAMINA"
+        ],
+        "match_study_id": "c08bb092-8923-4909-af25-1c10a4008ab8",
+        "Study_id": [
+            "0d1cda86-2058-4c65-8c0e-926003a913a9",
+            "567a6466-f16a-4b5c-92aa-91b9b91ce045"
+        ]
+    },
+    {
+        "study_names": [
+            "ULTRASONIDO MAMARIO",
+            "ULTRASONIDO MAMARIO"
+        ],
+        "match_study_id": "ffe1f42e-5b70-4388-b8b1-f92155e234f3",
+        "Study_id": [
+            "c7603cc6-00b7-41b2-af29-9db1465bdd84",
+            "212cfab2-9829-411a-a963-630f2328233c"
+        ]
+    },
+    {
+        "study_names": [
+            "CULTIVO DE LIQUIDO SINOVIAL ",
+            "CULTIVO DE LIQUIDO SINOVIAL"
+        ],
+        "match_study_id": "13bbab42-15f5-4890-be22-1c79da928588",
+        "Study_id": [
+            "874bf2da-d80f-4188-8a5a-8bf6d6713e0b",
+            "849019a4-fadf-4617-8bfc-5143801c5a3a"
+        ]
+    },
+    {
+        "study_names": [
+            "FACTOR VII DE LA COAGULACION",
+            "FACTOR VII DE COAGULACION"
+        ],
+        "match_study_id": "9973d42a-f385-4fb5-b9c0-411a61590796",
+        "Study_id": [
+            "de677d6b-c0fc-4a34-aeaa-2315b4a9503c",
+            "f7ebce83-1d9b-4989-afb3-75318549b20f"
+        ]
+    },
+    {
+        "study_names": [
+            "CARBAMAZEPINA",
+            "CARBAMAZEPINA"
+        ],
+        "match_study_id": "66fd8301-b58e-4571-9678-1307db86e8ad",
+        "Study_id": [
+            "3ff63f08-e5ab-45e1-936b-cd71127aeca8",
+            "68af4253-3511-4197-a20e-d7cb372a2e5a"
+        ]
+    },
+    {
+        "study_names": [
+            "PERFIL TORCH IGG E IGM",
+            "PERFIL DE TORCH IGG e IGM"
+        ],
+        "match_study_id": "2373e0e2-8ce4-4876-8b85-b7925b0fbf2c",
+        "Study_id": [
+            "34779276-51f2-4381-b653-017ed09805ab",
+            "7bb037e7-0bef-4bfa-b52c-f5a5d03bc529"
+        ]
+    },
+    {
+        "study_names": [
+            "HAPTOGLOBINA",
+            "HAPTOGLOBINA"
+        ],
+        "match_study_id": "f0db1529-a6d5-4bf9-bd29-2abf86433bb3",
+        "Study_id": [
+            "08a97493-8311-4ab5-8f11-0f54bceec675",
+            "c3069fa2-92b3-4b0c-ab97-c3ed537d7883"
+        ]
+    },
+    {
+        "study_names": [
+            "RX PELVIS AP Y LATERAL",
+            "RAYOS X PELVIS AP Y LATERAL-2"
+        ],
+        "match_study_id": "c183db79-8a52-4f34-a3fb-c6aa3dbec4a7",
+        "Study_id": [
+            "d18fe306-db87-48e7-93be-f66f29e3f934",
+            "21099582-ab64-4ca6-98b3-931b3c0eb86c"
+        ]
+    },
+    {
+        "study_names": [
+            "RESISTENCIA A LA PROTEINA C ACTIVADA",
+            "RESISTENCIA A LA PROTEINA C ACTIVADA"
+        ],
+        "match_study_id": "3f3d4a00-248e-44de-8829-bdff65350dba",
+        "Study_id": [
+            "1910f788-1ef3-43e2-9513-1bd0e4f1ad73",
+            "12a401fd-c500-4afc-a2a8-f7976e2c2817"
+        ]
+    },
+    {
+        "study_names": [
+            "PLOMO EN SANGRE",
+            "PLOMO EN SANGRE"
+        ],
+        "match_study_id": "575590a3-06b4-4b61-b9c8-d9fa8dedf3cc",
+        "Study_id": [
+            "4574a580-d4a9-48e3-91fb-93cca80dba7e",
+            "0dfdd639-3862-4fab-adc5-329b3f63b96d"
+        ]
+    },
+    {
+        "study_names": [
+            "MAGNESIO EN ORINA",
+            "MAGNESIO EN ORINA"
+        ],
+        "match_study_id": "fd8cfd91-eca7-4e97-a445-93e57f510ee2",
+        "Study_id": [
+            "513926da-c8c5-48a4-85c5-4835c92dcbff",
+            "47629db8-7ebe-47ef-87d6-641bf61576ba"
+        ]
+    },
+    {
+        "study_names": [
+            "VITAMINA B6",
+            "VITAMINA B6"
+        ],
+        "match_study_id": "9fece0d5-6d45-4305-bd43-fea4401bc478",
+        "Study_id": [
+            "9b9fea1c-e279-426e-875e-0bd39e21eb4c",
+            "f6697a0a-79a1-47b5-bbb2-113591964102"
+        ]
+    },
+    {
+        "study_names": [
+            "FACTOR X DE COAGULACION",
+            "FACTOR DE COAGULACION X"
+        ],
+        "match_study_id": "034c8e6c-d9e9-4813-ba66-dc0b297247fe",
+        "Study_id": [
+            "fe789eee-8c05-44c0-913b-508e55bea8d7",
+            "b1f3a0d9-1c86-446d-9eb9-b16187bde577"
+        ]
+    },
+    {
+        "study_names": [
+            "AC ANTI-TOXOPLASMA IGG",
+            "ANTICUERPOS ANTI TOXOPLASMA IGG"
+        ],
+        "match_study_id": "18a51302-c121-45ff-929b-8a383e9416ad",
+        "Study_id": [
+            "d3ecf987-5687-439e-a3b0-7bd63e1d4fb7",
+            "f1328746-c23c-45a6-aaac-9095123192c8"
+        ]
+    },
+    {
+        "study_names": [
+            "RAYOS X PIE AP LATERAL Y OBLICUA -3",
+            "PIE AP LATERAL Y OBLICUA"
+        ],
+        "match_study_id": "2c890732-5b6e-431a-beb0-cea777ce0607",
+        "Study_id": [
+            "5f77f991-0b1c-4e4f-8d17-9445068dc8a7",
+            "785bbdaf-3a5b-4540-bbc9-40778a897eb5"
+        ]
+    },
+    {
+        "study_names": [
+            "IDENTIFICACION DE PARASITO",
+            "IDENTIFICACION DE PARASITO"
+        ],
+        "match_study_id": "ae3604e2-0c06-4cd1-8e26-131db1f3c867",
+        "Study_id": [
+            "b071a63f-aea1-4926-ae7f-5530904eae00",
+            "ad5fd512-fbf2-492f-8000-91e61e8bb014"
+        ]
+    },
+    {
+        "study_names": [
+            "HEMOCULTIVO",
+            "Hemocultivo"
+        ],
+        "match_study_id": "314e5ec8-1cbf-4d69-8bcc-9bb73c5215db",
+        "Study_id": [
+            "472f418e-3300-4efc-92ff-1f86e0e739f0",
+            "e8fa2a6d-90ae-4126-8f47-4d933ca0c596"
+        ]
+    },
+    {
+        "study_names": [
+            "TINCION DE GRAM  ",
+            "TINCION DE GRAM"
+        ],
+        "match_study_id": "12bc0c19-1f65-49ba-8e15-df735eca31b4",
+        "Study_id": [
+            "17fa3eb9-d7c3-4c02-a622-b1f66bca1480",
+            "15de53e8-c178-4e21-b3b6-b54d5b3e909d"
+        ]
+    },
+    {
+        "study_names": [
+            "ULTRASONIDO ABDOMINAL SUPERIOR",
+            "ULTRASONIDO ABDOMINAL SUPERIOR"
+        ],
+        "match_study_id": "c5370fb9-0698-4188-8aa1-19cdb23c6f40",
+        "Study_id": [
+            "c498573b-2048-4f5b-be7d-39f200fb90dd",
+            "24eb5b76-0051-43a5-98f0-1910ac6d1d8d"
+        ]
+    },
+    {
+        "study_names": [
+            "METAHEMOGLOBINA",
+            "METAHEMOGLOBINA"
+        ],
+        "match_study_id": "a9ebc2f4-c0ec-4b70-8cc7-d33c703118e7",
+        "Study_id": [
+            "c0664d25-41a2-455a-b508-6a26fb47ade0",
+            "9989dcaa-63d7-4521-9682-c435aa9f6d25"
+        ]
+    },
+    {
+        "study_names": [
+            "INDICE DE TIROXINA LIBRE",
+            "INDICE DE TIROXINA LIBRE"
+        ],
+        "match_study_id": "cb57a9de-8713-45c4-9420-458202922035",
+        "Study_id": [
+            "8a544f50-a6c5-4dd9-a8f8-07e75731b63d",
+            "b2218a71-2171-487a-a144-572f068d5bb1"
+        ]
+    },
+    {
+        "study_names": [
+            "RETICULOCITOS",
+            "RETICULOCITOS"
+        ],
+        "match_study_id": "bca924fe-656a-49b3-9529-a91a6e308618",
+        "Study_id": [
+            "9c0f2a3e-69b4-49b8-b9be-a5f4202d4b9d",
+            "cbe94b10-9b5b-459f-b77d-6e11dac93890"
+        ]
+    },
+    {
+        "study_names": [
+            "ENZIMA CONVERTIDORA DE ANGIOTENSINA",
+            "ENZIMA CONVERTIDORA DE ANGIOTENSINA"
+        ],
+        "match_study_id": "23daeabb-da7a-460a-a036-8def0f3ce1e4",
+        "Study_id": [
+            "2cb7ca64-68dc-4011-80cb-fec9d9378934",
+            "749073d0-d971-45af-a5c3-cfa58b443305"
+        ]
+    },
+    {
+        "study_names": [
+            "INMUNOGLOBULINA ESTIMULANTE DE TIROIDES (TSI)",
+            "TSI (Inmunoglobulina estimulante de tiroides)"
+        ],
+        "match_study_id": "6cf9f399-4fa6-4614-9bd4-fff81ac24907",
+        "Study_id": [
+            "8383df8b-b94d-4559-9fd3-0a7fd909a719",
+            "10ef5281-387b-430b-81ab-7ca28ab8d3b8"
+        ]
+    },
+    {
+        "study_names": [
+            "ESTROGENOS TOTALES",
+            "ESTROGENOS TOTALES"
+        ],
+        "match_study_id": "296beca7-2221-483b-9481-6e3950cec2bf",
+        "Study_id": [
+            "17129529-9c0f-4e24-ad12-23fbf6593e35",
+            "803b44ad-5d85-4230-8b5e-f713fbd60838"
+        ]
+    },
+    {
+        "study_names": [
+            "Transrectal",
+            "ULTRASONIDO TRANSRECTAL"
+        ],
+        "match_study_id": "d9ce53fd-2179-4106-8a21-061f99d82e0d",
+        "Study_id": [
+            "f71f6fb5-9e1d-45af-9a78-91ded9d14155",
+            "e191e9b6-1395-44b3-b9e3-2012e60bb418"
+        ]
+    },
+    {
+        "study_names": [
+            "INMUNOFIJACION EN SUERO",
+            "INMUNOFIJACION EN SUERO"
+        ],
+        "match_study_id": "4f54216b-be6e-478f-9cbb-62a69e3c3d57",
+        "Study_id": [
+            "a3413ab7-eba9-45d8-a728-d96c3d6cc123",
+            "603a1d94-c8c4-453a-b4f6-72c5133c396f"
+        ]
+    },
+    {
+        "study_names": [
+            "NIQUEL",
+            "NIQUEL"
+        ],
+        "match_study_id": "30a9e923-8d2f-45b8-9473-9ac34d8f021a",
+        "Study_id": [
+            "cca24990-2c68-425f-9fae-35b565316336",
+            "3697e6e2-b112-42fc-9e87-4bd3283bfcb0"
+        ]
+    },
+    {
+        "study_names": [
+            "LIPASA",
+            "LIPASA"
+        ],
+        "match_study_id": "170cd414-9eb4-48b6-92bc-809c9c7ca688",
+        "Study_id": [
+            "29754fe5-8d19-493b-8b91-11a7a4cdbcda",
+            "195585c0-1ccd-4d5f-a0eb-0376dfee24ea"
+        ]
+    },
+    {
+        "study_names": [
+            "ULTRASONIDO OBSTETRICO",
+            "ULTRASONIDO OBSTETRICO"
+        ],
+        "match_study_id": "31eb66bb-3bc0-4047-a313-62c117bcac8b",
+        "Study_id": [
+            "359ab1d1-37ad-491b-afda-d5e76e061f2f",
+            "1e8f544c-a164-450f-83b5-52b3f2d08551"
+        ]
+    },
+    {
+        "study_names": [
+            "OSTEOCALCINA",
+            "OSTEOCALCINA"
+        ],
+        "match_study_id": "10b6c0af-fba5-4969-a121-ccd5f2c17737",
+        "Study_id": [
+            "72f35226-fe2b-4936-9d28-5635dc6bcb6a",
+            "61959838-81e4-41a3-aab2-c02e1399471a"
+        ]
+    },
+    {
+        "study_names": [
+            "RESONANCIA MAGNETICA DE COLUMNA CERVICAL",
+            "RESONANCIA MAGNÉTICA COLUMNA CERVICAL"
+        ],
+        "match_study_id": "080ea9b5-6e25-4d2b-aaf0-27980f760e7a",
+        "Study_id": [
+            "acc6030d-3455-4857-a654-96d59490b23f",
+            "5f73d56d-c31f-473a-893a-7afc3f394d09"
+        ]
+    },
+    {
+        "study_names": [
+            "HORMONA ANTI-MULLERIANA",
+            "HORMONA ANTI MULLERIANA"
+        ],
+        "match_study_id": "bc06cc1f-63fb-4eef-a317-db80de409c75",
+        "Study_id": [
+            "3d4275f2-035c-4130-a119-ce8d2b115da5",
+            "d2d386fa-042d-409c-ad3e-e35e8df58e18"
+        ]
+    },
+    {
+        "study_names": [
+            "ULTRASONIDO TESTICULAR",
+            "ULTRASONIDO TESTICULAR"
+        ],
+        "match_study_id": "c00346e8-42b7-4cb0-91e1-ee654367b7e2",
+        "Study_id": [
+            "4272ff71-dfd9-4dc8-b8a1-e1b6b3214c89",
+            "9b443bdd-541f-42f4-a721-5aff5c9823f9"
+        ]
+    },
+    {
+        "study_names": [
+            "PROINSULINA",
+            "PROINSULINA"
+        ],
+        "match_study_id": "333f41a7-49a5-4369-851a-f63772d72360",
+        "Study_id": [
+            "cea896d8-d80c-415d-8d32-dc66af2ce0bb",
+            "6644b859-1083-4e2c-bca0-ce9c262fbe93"
+        ]
+    },
+    {
+        "study_names": [
+            "TIEMPO DE PROTROMBINA",
+            "TIEMPO DE PROTROMBINA"
+        ],
+        "match_study_id": "0d4e65eb-dda3-49db-9e51-d6d076395ab8",
+        "Study_id": [
+            "cff291f8-2f2a-4c3d-a38a-3b5db227ac45",
+            "cff8d761-357e-499e-a4a3-425795c808fc"
+        ]
+    },
+    {
+        "study_names": [
+            "PRUEBA DE EMBARAZO",
+            "Prueba de Embarazo"
+        ],
+        "match_study_id": "3bd3b434-a044-47ad-97d3-df4c8ec34f25",
+        "Study_id": [
+            "b338dbc0-10da-4925-a7d1-7c700bfcbf25",
+            "ca62b5ef-f13d-4a41-a617-35fe1306a33b"
+        ]
+    },
+    {
+        "study_names": [
+            "LINFOCITOS CD4 Y CD8",
+            "LINFOCITOS CD4 Y CD8"
+        ],
+        "match_study_id": "76124d57-f5a6-4d26-b844-5c2aa989e716",
+        "Study_id": [
+            "f3b341a6-f59f-47f4-a7b6-20399e66faac",
+            "c92c4ea3-cb1a-4b92-a1b3-c10d172b6450"
+        ]
+    },
+    {
+        "study_names": [
+            "INHIBINA B",
+            "INHIBINA B"
+        ],
+        "match_study_id": "cbb14721-60cd-4e6a-902e-920f3c160f7b",
+        "Study_id": [
+            "4e383df4-048f-4295-8a7d-9ca6f122cc50",
+            "5ec9a1ef-2dfd-452c-873d-267ac7a3e838"
+        ]
+    },
+    {
+        "study_names": [
+            "ULTRASONIDO DE PROSTATA",
+            "ULTRASONIDO DE PROSTATA"
+        ],
+        "match_study_id": "119c8aa4-b1e9-4fea-addf-6f47f80a4e81",
+        "Study_id": [
+            "fa95223f-64ac-4c13-b759-25839b144984",
+            "fe190504-d76b-412d-afc2-7e8f0d692307"
+        ]
+    },
+    {
+        "study_names": [
+            "Creatinina",
+            "CREATININA"
+        ],
+        "match_study_id": "aa89c929-81a0-4b4e-8c4d-c7a336553cc3",
+        "Study_id": [
+            "69990f50-7c31-4209-8757-34234af49a05",
+            "aa993f3f-0767-45e7-a625-4fd2d8fcdc50"
+        ]
+    },
+    {
+        "study_names": [
+            "AC. ANTI LEPTOSPIRA IGG E IGM",
+            "ANTICUERPOS ANTI LEPTOSPIRA IGG E IGM"
+        ],
+        "match_study_id": "9fdd89ff-3c75-491f-bdd7-a79be9d0dc4c",
+        "Study_id": [
+            "0b94cb72-99e9-438c-91f5-f1d5c3f92991",
+            "e7bb6727-e3ae-4692-b103-746266f16c76"
+        ]
+    },
+    {
+        "study_names": [
+            "CLAVICULA AP",
+            "RX CLAVICULA AP"
+        ],
+        "match_study_id": "999e991b-8ede-4455-93ef-bee9d662efc0",
+        "Study_id": [
+            "5a0ab662-ad99-4d26-bfa7-85e4705a05e3",
+            "3de44dd6-212b-49b9-b79a-d87f8ccdeb31"
+        ]
+    },
+    {
+        "study_names": [
+            "INHIBIDOR DEL ACTIVADOR DEL PLASMINOGENO",
+            "INHIBIDOR DEL ACTIVADOR DEL PLASMINOGENO"
+        ],
+        "match_study_id": "eb1fb6a4-98e7-441a-810e-cde9d0dc5e68",
+        "Study_id": [
+            "0b563752-8f41-4207-80fc-36f57ebc07c9",
+            "fca4a30e-2f56-45a9-9e5d-5777ee333581"
+        ]
+    },
+    {
+        "study_names": [
+            "ULTRASONIDO DOPPLER TESTICULAR",
+            "ULTRASONIDO DOPPLER TESTICULAR"
+        ],
+        "match_study_id": "711642f0-d47b-498a-90da-3c11bda1b9bd",
+        "Study_id": [
+            "19796ab4-5f56-4dcb-a3fa-0193cc37b3f0",
+            "d70ddeb4-f38e-40fc-a98e-2a540c0e5211"
+        ]
+    },
+    {
+        "study_names": [
+            "VITAMINA B12 ",
+            "VITAMINA B12"
+        ],
+        "match_study_id": "058a9dd0-4203-42b9-b9c5-2238b3db5b18",
+        "Study_id": [
+            "ca57b132-aa0f-4c1d-b892-ed50f218d6ea",
+            "4c483f05-4cf9-4d7b-b32d-07b37881cf23"
+        ]
+    },
+    {
+        "study_names": [
+            "RESONANCIA MAGNETICA DE ABDOMEN (SUPERIOR)",
+            "RESONANCIA MAGNÉTICA ABDOMEN SUPERIOR"
+        ],
+        "match_study_id": "64fd4af0-e874-421d-951c-210c5608f1c7",
+        "Study_id": [
+            "ae293f90-7dd6-4a29-86ba-ff349dcc1d79",
+            "c058a6dc-d74b-4503-ab99-e999b1e7b7b5"
+        ]
+    },
+    {
+        "study_names": [
+            "LAMOTRIGINA",
+            "LAMOTRIGINA "
+        ],
+        "match_study_id": "b23bb970-d27d-4edb-8f3b-2b46cf3ace14",
+        "Study_id": [
+            "574ee232-b013-479e-a175-03581c0774d1",
+            "14ee17fe-e8ff-4101-ac66-caa6339c56b3"
+        ]
+    },
+    {
+        "study_names": [
+            "LEPTINA",
+            "LEPTINA"
+        ],
+        "match_study_id": "ff590cd8-a499-410d-8940-6febb43aaf4c",
+        "Study_id": [
+            "e869d0ea-c4b5-45a5-94d8-7882cb07c88e",
+            "6e064787-a4d5-462a-929c-b4c481d1c618"
+        ]
+    },
+    {
+        "study_names": [
+            "TOPIRAMATO",
+            "TOPIRAMATO"
+        ],
+        "match_study_id": "2734aa2d-3c1f-4443-8e38-d367581b25f8",
+        "Study_id": [
+            "75dcf537-8d1f-4d56-935c-9e71b0be2365",
+            "f4df982f-2e98-41f6-8d9b-61ccb7e889f6"
+        ]
+    },
+    {
+        "study_names": [
+            "FOSFOLIPIDOS",
+            "Fosfolípidos"
+        ],
+        "match_study_id": "7fbb4089-a25f-4007-81ea-21ee928e4d64",
+        "Study_id": [
+            "bdc96813-eb6c-43e8-83be-cd3d01afe569",
+            "575f3e5e-c8e9-4905-b6a5-db344176f9b7"
+        ]
+    },
+    {
+        "study_names": [
+            "FACTOR XIII DE COAGULACION",
+            "FACTOR XIII DE LA COAGULACION"
+        ],
+        "match_study_id": "6865642f-243e-4617-88c0-955bd576ab02",
+        "Study_id": [
+            "2f68854b-6274-4f6c-9b5e-f79f79de2f2d",
+            "8ea3f7ee-ac32-4a5f-aa08-8ccb4e38faf8"
+        ]
+    },
+    {
+        "study_names": [
+            "POTASIO",
+            "POTASIO "
+        ],
+        "match_study_id": "a0c86427-95fe-49f4-a9dc-ed965150adee",
+        "Study_id": [
+            "6c53d05b-b138-4edc-8d5b-e3009d67ad4b",
+            "4b06d2a8-611c-4fd0-9d2c-e1cc46b9d034"
+        ]
+    },
+    {
+        "study_names": [
+            "RX PIE AP Y OBLICUA",
+            "PIE AP Y OBLICUA"
+        ],
+        "match_study_id": "e34be1ed-2790-4159-9b1a-aaec67d8235d",
+        "Study_id": [
+            "dc8e5e8b-a366-4cef-bb6e-9ea896458f2a",
+            "5c32ffc2-4cdc-4af0-b774-b6a7c1fe7c5f"
+        ]
+    },
+    {
+        "study_names": [
+            "FACTOR DE LA COAGULACION V",
+            "FACTOR V DE COAGULACION"
+        ],
+        "match_study_id": "1972e439-2129-4b30-bbd7-3aea9b143069",
+        "Study_id": [
+            "345f0897-7699-4b71-af3c-1747c5ffa8f1",
+            "c71acf65-7741-4d8f-9431-6e334c25fdb8"
+        ]
+    },
+    {
+        "study_names": [
+            "PROTEINAS TOTALES",
+            "PROTEINAS TOTALES"
+        ],
+        "match_study_id": "3be53893-3aee-47e0-a75b-f0029b406681",
+        "Study_id": [
+            "00095886-2cd6-49b7-b06a-b4e0497fdbe7",
+            "ed01735f-3379-4ef0-a43d-adbe081b46da"
+        ]
+    },
+    {
+        "study_names": [
+            "ESTRADIOL",
+            "ESTRADIOL"
+        ],
+        "match_study_id": "04ecfaa1-31c2-4f8f-a838-547a580fc5c8",
+        "Study_id": [
+            "05c27c46-dba6-4d14-908b-a24582c0d423",
+            "beaa3a69-b960-41f1-b452-e392c86f4df1"
+        ]
+    },
+    {
+        "study_names": [
+            "YODO PROTEICO",
+            "YODO PROTEICO"
+        ],
+        "match_study_id": "83bbef80-01b9-4173-995c-f97afe220da9",
+        "Study_id": [
+            "67c1fe78-78ba-46c6-9d8a-5b1c6109a36f",
+            "bc8b611f-9336-40f1-aa3f-5721fa1317dd"
+        ]
+    },
+    {
+        "study_names": [
+            "PROTEINAS TOTALES EN ORINA DE 24 h",
+            "PROTEINAS TOTALES EN ORINA DE 24 HRS."
+        ],
+        "match_study_id": "af95f3b4-50f3-4e9c-9602-ce7fdecc1d2f",
+        "Study_id": [
+            "a4314802-e7f5-4ef5-8831-4ee193c6dcba",
+            "bc73b0ef-e8b5-464d-bd1a-9bf1303f2185"
+        ]
+    },
+    {
+        "study_names": [
+            "Factor Reumatoide",
+            "FACTOR REUMATOIDE"
+        ],
+        "match_study_id": "89ffce9e-74f0-416b-9d22-1bbd49263b6e",
+        "Study_id": [
+            "514c7e0f-6014-4e10-a070-07b7da22283e",
+            "b739b0c3-6761-47e7-af86-a5077dd47618"
+        ]
+    },
+    {
+        "study_names": [
+            "REACCIONES FEBRILES",
+            "REACCIONES FEBRILES"
+        ],
+        "match_study_id": "f88d8d03-9161-4378-98ef-a1adead263b5",
+        "Study_id": [
+            "1a097152-5493-408b-84aa-782a020ad93f",
+            "3b1c0ba8-af6a-4885-a4d1-a0df47e2c891"
+        ]
+    },
+    {
+        "study_names": [
+            "GAMMAGRAMA PARATIROIDEO  MIBI",
+            "GAMAGRAMA PARATIROIDEO CON MIBI"
+        ],
+        "match_study_id": "8a80cd0b-f68c-4fb3-8459-ebbda7778150",
+        "Study_id": [
+            "ffa1171b-df1f-4f66-bf7f-fe12aa267a91",
+            "e040ae21-11e2-479a-a3f1-60465cb1163c"
+        ]
+    },
+    {
+        "study_names": [
+            "T3 REVERSA",
+            "T3 REVERSA"
+        ],
+        "match_study_id": "d6640a9a-b854-4087-8cce-fc73f9989f83",
+        "Study_id": [
+            "94b90940-639c-4b19-a871-47740b507937",
+            "2aa5d426-4d1b-4a92-86f2-04a50a01cc09"
+        ]
+    },
+    {
+        "study_names": [
+            "ERITROPOYETINA",
+            "ERITROPOYETINA"
+        ],
+        "match_study_id": "71bda47c-4958-478e-afc5-e4d46d9df6fc",
+        "Study_id": [
+            "78b30817-757c-4f1b-bc91-d314acff577f",
+            "2807a56e-e5c5-47fa-ae5b-2a7a8cba5d58"
+        ]
+    },
+    {
+        "study_names": [
+            "RX CRANEO AP   ",
+            "CRANEO AP"
+        ],
+        "match_study_id": "6506ed58-d27e-41ce-8e30-841ee5eff9d0",
+        "Study_id": [
+            "2991e1bd-2aca-4d13-b52c-e90268cfe198",
+            "3d750264-f9e7-4a93-9cb7-37ee1165befe"
+        ]
+    },
+    {
+        "study_names": [
+            "CULTIVO DE LIQUIDO PLEURAL",
+            "CULTIVO DE LIQUIDO PLEURAL"
+        ],
+        "match_study_id": "106e9d82-e926-45a3-9c2a-605219b001e7",
+        "Study_id": [
+            "c827da68-3eef-4ed1-bd6b-1bac8ed59e3a",
+            "87c97f4e-c686-4cb9-bec1-adc2b0bcdbc8"
+        ]
+    },
+    {
+        "study_names": [
+            "TIROGLOBULINA",
+            "TIROGLOBULINA"
+        ],
+        "match_study_id": "0aee371f-98ff-4735-9556-f324ad8db7c3",
+        "Study_id": [
+            "97fa2292-a427-4d0f-b824-24c757345f73",
+            "cbdf3610-180b-42a2-bf3e-e3b0be0c7873"
+        ]
+    },
+    {
+        "study_names": [
+            "PROTEINA C REACTIVA ULTRASENSIBLE",
+            "PROTEINA C REACTIVA ULTRASENSIBLE"
+        ],
+        "match_study_id": "4c2c5ddb-fb8d-4d2a-8629-3871a84605d4",
+        "Study_id": [
+            "d5814738-1497-4b51-85bf-5fadd1d9b53a",
+            "cf07eda6-19b9-4da7-9b6a-69ae9667b122"
+        ]
+    },
+    {
+        "study_names": [
+            "FOSFORO",
+            "Fósforo"
+        ],
+        "match_study_id": "a4635233-3a16-43d9-bb62-9fa38f0168cd",
+        "Study_id": [
+            "84b9fbc7-77d7-43c9-b0b5-b4356b297273",
+            "35009c94-487b-4e03-a3be-e171410035c5"
+        ]
+    },
+    {
+        "study_names": [
+            "FRAGILIDAD OSMOTICA DE ERITROCITOS",
+            "FRAGILIDAD OSMOTICA DE LOS ERITROCITOS"
+        ],
+        "match_study_id": "a2557469-2607-4b69-834f-92536fcd622c",
+        "Study_id": [
+            "d1553d25-f326-47d5-8d2a-26bf6eef6e60",
+            "06b8927e-5132-488a-a231-57176bcc4e28"
+        ]
+    },
+    {
+        "study_names": [
+            "MIOGLOBINA",
+            "MIOGLOBINA"
+        ],
+        "match_study_id": "16e29440-a6a6-4c2d-b639-b1887fe5d9ae",
+        "Study_id": [
+            "997cd67e-70da-4236-88ab-1473c2b7a20d",
+            "a760cc6c-56db-4948-8ad8-3a90a28bb5f6"
+        ]
+    },
+    {
+        "study_names": [
+            "T3 TOTAL (TRIYODOTIRONINA)",
+            "T3 TOTAL (TRIYODOTIRONINA)"
+        ],
+        "match_study_id": "de8116e8-4f0e-4a6f-8925-941240021c0a",
+        "Study_id": [
+            "ddc3e43d-9d3c-427b-b4c5-60bc046eb73d",
+            "0fb706c2-2411-49e4-a97a-afbf8bf40dcb"
+        ]
+    },
+    {
+        "study_names": [
+            "RESONANCIA MAGNETICA DE ABDOMEN COMPLETO ",
+            "RESONANCIA MAGNÉTICA ABDOMEN COMPLETO"
+        ],
+        "match_study_id": "b9cd9208-8a4c-4ae9-bdd7-709311247096",
+        "Study_id": [
+            "c7e91b4e-aac8-4db5-aec2-ce401afb29ca",
+            "1bfb8e53-fff4-47a9-83dc-874d12278ea1"
+        ]
+    },
+    {
+        "study_names": [
+            "POTASIO EN ORINA AL AZAR",
+            "POTASIO EN ORINA AL AZAR"
+        ],
+        "match_study_id": "a7a5a21d-4536-429e-965b-96ddd61952a0",
+        "Study_id": [
+            "b8035d31-acf7-46f8-9cd4-8a7cb003f926",
+            "a2aa0f58-c441-4625-bd68-87dd70006691"
+        ]
+    },
+    {
+        "study_names": [
+            "ELECTROFORESIS DE PROTEINAS (ORINA)",
+            "ELECTROFORESIS DE PROTEINAS EN ORINA"
+        ],
+        "match_study_id": "6561c6a6-8dbf-43e6-8bcc-93bfe54ea5b2",
+        "Study_id": [
+            "d7c93d7b-f94e-4f6b-ad1c-465de38bd03c",
+            "fc14c6d1-ddb1-437f-ba63-46cc6c52c1e9"
+        ]
+    },
+    {
+        "study_names": [
+            "MASTOGRAFÍA CON TOMOSINTESIS",
+            "MASTOGRAFIA CON TOMOSINTESIS"
+        ],
+        "match_study_id": "b11ddbe1-875a-4eb4-a6ff-88d64d15ae8f",
+        "Study_id": [
+            "5bb63bfd-affe-49cb-a2a8-79e622dbc31e",
+            "041a0f64-042e-4c57-bac0-aaef311c2b35"
+        ]
+    },
+    {
+        "study_names": [
+            "HISTAMINA",
+            "HISTAMINA"
+        ],
+        "match_study_id": "437e3756-77cc-4443-9d4b-d0bae4effad1",
+        "Study_id": [
+            "b2c09f89-1bd9-43c5-bb2e-597cd7de8281",
+            "8a706eba-7014-46f3-b32a-bdb071c6c7b2"
+        ]
+    },
+    {
+        "study_names": [
+            "FACTOR XII DE COAGULACION",
+            "FACTOR XII DE LA COAGULACION"
+        ],
+        "match_study_id": "258be5f0-5708-4f2a-bd6c-718d9fbe97ab",
+        "Study_id": [
+            "adadea9e-11f2-46f6-bd1f-1c7e1854a36e",
+            "7f5c5641-c409-4184-b50a-fb9721f18481"
+        ]
+    },
+    {
+        "study_names": [
+            "GLUCAGON",
+            "GLUCAGON"
+        ],
+        "match_study_id": "e3e52d33-a40b-4b8b-9b2d-f2719228eeba",
+        "Study_id": [
+            "092c6719-9606-458c-b66d-69b7bcfebe59",
+            "4d158a13-8d3b-4857-b564-507f231a7942"
+        ]
+    },
+    {
+        "study_names": [
+            "T3 LIBRE",
+            "T3 LIBRE"
+        ],
+        "match_study_id": "9d76cb1d-fd08-43fb-8407-39a765c0d060",
+        "Study_id": [
+            "8684fd7b-8d7e-4317-acd8-d982ba602c9f",
+            "d4d2d85e-142a-463f-b3ba-026ccdbd85b8"
+        ]
+    },
+    {
+        "study_names": [
+            "ELECTROFORESIS DE PROTEINAS",
+            "ELECTROFORESIS DE PROTEINAS"
+        ],
+        "match_study_id": "d53036bd-6091-4844-9785-64f6685a4ae4",
+        "Study_id": [
+            "a7b13884-7bb3-40bd-b551-b9d70fe709c6",
+            "37f5af8f-f07e-40c3-9d6f-2ad1456e3eb2"
+        ]
+    },
+    {
+        "study_names": [
+            "Glucosa",
+            "GLUCOSA"
+        ],
+        "match_study_id": "872ec87b-1cb1-4bcc-8825-a0b7de88078c",
+        "Study_id": [
+            "470fe426-18a9-4e30-a88b-6d51387ecf7c",
+            "f6b6f55a-c8d5-4b9f-a89c-266655cadea2"
+        ]
+    },
+    {
+        "study_names": [
+            "PROTEINA C REACTIVA",
+            "PROTEINA C REACTIVA"
+        ],
+        "match_study_id": "21d84190-458c-4fe7-b51f-a47264259960",
+        "Study_id": [
+            "9fce0fc3-7e1c-4d06-8109-ee9d3f6675d9",
+            "232b4a85-6245-4c9a-9986-dea5def6a5c7"
+        ]
+    },
+    {
+        "study_names": [
+            "ANTITROMBINA III ",
+            "ANTITROMBINA III"
+        ],
+        "match_study_id": "7839512e-024e-4996-8eda-4b51258a8429",
+        "Study_id": [
+            "874dbdd5-ffc1-45d7-a3ef-7ceff7772227",
+            "ed6aff80-4aa4-4fb3-9ce0-4e57fbf4ba2e"
+        ]
+    },
+    {
+        "study_names": [
+            "RESONANCIA MAGNETICA DE SENOS PARANASALES ",
+            "RESONANCIA MAGNÉTICA SENOS PARANASALES"
+        ],
+        "match_study_id": "bfdcb9d4-e9b9-419c-aeb2-0eb7e7c9db8a",
+        "Study_id": [
+            "8934e0df-f774-4a3b-bc6e-1f40aa6d2ec6",
+            "51ae548d-3d3c-48c7-b841-585c9523b60e"
+        ]
+    },
+    {
+        "study_names": [
+            "AC. ANTI FOSFOLIPIDOS IGG",
+            "ANTICUERPOS ANTI FOSFOLIPIDOS IGG"
+        ],
+        "match_study_id": "eb41a73a-69cb-4a86-a227-e8bfe34963ad",
+        "Study_id": [
+            "35076875-0f48-4725-bc57-4be328aec912",
+            "e2d8b5d5-400a-47f2-835f-9e15fd50c285"
+        ]
+    },
+    {
+        "study_names": [
+            "ELASTASA PANCREATICA",
+            "ELASTASA PANCREATICA"
+        ],
+        "match_study_id": "8cb65a5c-d9a4-4df5-8a2e-b3ffd253918c",
+        "Study_id": [
+            "14173f50-cdbd-4d58-bd66-69303dc63817",
+            "0862f5f1-cd19-461a-b61b-9ac60b113221"
+        ]
+    },
+    {
+        "study_names": [
+            "SIROLIMUS",
+            "SIROLIMUS"
+        ],
+        "match_study_id": "f783b9be-750e-4185-b363-049a31daefd6",
+        "Study_id": [
+            "af2dedfa-cb37-4f26-9133-e302d21c882d",
+            "a96d8dda-23a1-4e82-8eed-d79358c69da6"
+        ]
+    },
+    {
+        "study_names": [
+            "FOSFATASA ALCALINA",
+            "Fosfatasa Alcalina"
+        ],
+        "match_study_id": "f8a24ec1-bff2-411f-b851-66986cb03fae",
+        "Study_id": [
+            "70d9d025-9751-4cce-b640-c7a9b33d9c38",
+            "dc8b14c3-2f36-425d-a161-42456378d07d"
+        ]
+    },
+    {
+        "study_names": [
+            "ANTICUERPOS ANTI CHIKUNGUNYA  IGM ",
+            "AC. ANTI CHIKUNGUNYA IGM"
+        ],
+        "match_study_id": "082fb38e-5272-4326-b13e-c47e75aae0b8",
+        "Study_id": [
+            "f1ae3147-69d0-4c8f-ac2b-4f518e0a46df",
+            "84c68993-f2ea-4066-b255-1ac07ccda78e"
+        ]
+    },
+    {
+        "study_names": [
+            "HORMONA LUTEINIZANTE LH",
+            "HORMONA LUTEINIZANTE (LH)"
+        ],
+        "match_study_id": "f87d6381-5e4f-4d10-8de0-9cdca016c8b2",
+        "Study_id": [
+            "667162d0-4685-44f1-9198-bdc1d3389473",
+            "be0c910e-4f24-4a5c-8bd8-a44f626bf03f"
+        ]
+    },
+    {
+        "study_names": [
+            "ZINC",
+            "ZINC"
+        ],
+        "match_study_id": "6bbe9e52-4c1a-4cad-8820-c725b82fa1a3",
+        "Study_id": [
+            "946e3183-5f9a-4c2c-a7cc-da9d69e1af54",
+            "7561545e-9bba-4728-be20-012652c03424"
+        ]
+    },
+    {
+        "study_names": [
+            "BILIRRUBINAS",
+            "Bilirrubinas"
+        ],
+        "match_study_id": "0694fb49-6f77-4fea-899b-ac7e9a57f2e1",
+        "Study_id": [
+            "0744a2e2-03f4-4cd6-a90f-2f1ce82a7d91",
+            "fede31c4-8f45-4b1a-9775-55f1f1c8a114"
+        ]
+    },
+    {
+        "study_names": [
+            "VITAMINA A",
+            "VITAMINA A"
+        ],
+        "match_study_id": "97c67900-6222-457e-a2e0-4cdc82c84279",
+        "Study_id": [
+            "47c072a3-151e-48b9-a945-fb4d16c9dbe3",
+            "b8fcc635-19b9-4ac5-93de-05384a5f4ca6"
+        ]
+    },
+    {
+        "study_names": [
+            "ELECTROLITOS (NA, K, CL)",
+            "Electrolitos Na, K, Cl"
+        ],
+        "match_study_id": "ea609c78-6ef9-4120-971f-cc7e6e2853ef",
+        "Study_id": [
+            "4a088af1-9275-4dc4-bb7e-fbee0a7b680d",
+            "20959a4d-52d9-456e-8436-6f26bacfae83"
+        ]
+    },
+    {
+        "study_names": [
+            "LITIO",
+            "LITIO"
+        ],
+        "match_study_id": "fc412c67-33cd-4080-b5c4-d8f30b53f383",
+        "Study_id": [
+            "16768774-1469-4342-a1f5-11936d84a138",
+            "fe7026c2-9bb2-4751-ac31-e94ed9513f95"
+        ]
+    },
+    {
+        "study_names": [
+            "VITAMINA D 25 HIDROXI",
+            "VITAMINA D 25-HIDROXI"
+        ],
+        "match_study_id": "8e05ab50-a730-4186-95e6-242846e9f638",
+        "Study_id": [
+            "bfe3505d-cb13-46db-b9f2-495241869b8b",
+            "5492a281-447a-4c35-98e6-5d651a764160"
+        ]
+    },
+    {
+        "study_names": [
+            "EXAMEN GENERAL DE ORINA",
+            "EXAMEN GENERAL DE ORINA"
+        ],
+        "match_study_id": "b5811b51-4cb5-4212-a9ad-d1bd091d4774",
+        "Study_id": [
+            "05b31c36-0f78-4257-8098-0d4bc63c0214",
+            "01e6aef8-12cb-449e-99b9-6ece3664f8c5"
+        ]
+    },
+    {
+        "study_names": [
+            "OSMOLALIDAD URINARIA",
+            "OSMOLARIDAD URINARIA"
+        ],
+        "match_study_id": "be83a717-0933-4bab-ab68-ae58fa2d7aec",
+        "Study_id": [
+            "656d043a-01e4-410e-9fa0-7eb72dd4b1b7",
+            "ea81641a-f668-4e71-ae9c-15413bc99fff"
+        ]
+    }
+]
